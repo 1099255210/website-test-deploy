@@ -1,6 +1,6 @@
 var welcomePage = { 
 	template: `
-  <section class="p-5">
+  <section class="pt-5">
     <div class="container">
       <div>
         <!-- <div class="alert alert-primary" role="alert">
@@ -40,6 +40,96 @@ var welcomePage = {
             articles that describe original and unpublished research advancing
             state of art in ubiquitous intelligence and computing.
           </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <p class="conf-title">Important Dates</p>
+      <div class="row">
+        <div class="col-md-6">
+
+          <div class="d-flex justify-content-between">
+            <p>Paper Submissions Deadline</p>
+            <p>31 July 2023</p>
+          </div>
+          <div class="d-flex justify-content-between">
+            <p>Notification</p>
+            <p>31 August 2023</p>
+          </div>
+          <div class="d-flex justify-content-between">
+            <p>Camera Ready Paper Deadline</p>
+            <p>21 September 2023</p>
+          </div>
+          <div class="d-flex justify-content-between">
+            <p>Conference Date</p>
+            <p>19-22 October 2023</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <p class="conf-title">Topics</p>
+      <div class="row">
+        <div class="col-md-8">
+          <p class="main-p">
+            Topics for submissions include but are not limited to the
+            following:
+          </p>
+          <ul>
+            <li>Networked system hardware and platforms</li>
+            <li>Ubiquitous connectivity communication paradigms</li>
+            <li>Low-power wireless protocols and designs</li>
+            <li>Operating systems and network stacks</li>
+            <li>System services such as time and location estimation</li>
+            <li>Energy harvesting and management</li>
+            <li>Resource-efficient machine learning for AIoT platforms</li>
+            <li>Mobile and pervasive systems with networked sensing</li>
+            <li>Data management and analytics</li>
+            <li>
+              Perception, understanding, and adaptation learning algorithms
+            </li>
+            <li>Heterogeneous collaborative sensing</li>
+            <li>Security and privacy in networked AIoT systems</li>
+            <li>Fault-tolerance and dependability</li>
+            <li>Deployment experiences</li>
+            <li>Data management for AIoT applications</li>
+            <li>
+              Resource-efficient machine learning and AI for AIoT devices
+            </li>
+            <li>Security and privacy in AIoT systems</li>
+            <li>Novel AIoT applications using machine learning</li>
+            <li>
+              Techniques and systems for novel human-machine interactions and
+              experiences
+            </li>
+            <li>Infrastructure support for AIoT computing</li>
+            <li>Software architectures for AIoT devices and computing</li>
+            <li>Operating systems for AIoT devices</li>
+            <li>System-level energy management for AIoT devices</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="p-5">
+    <div class="container">
+      <p class="conf-title">Sponsors</p>
+      <div class="row">
+        <div class="col-md-4">
+          <img src="./assets/ieeexian.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-2">
+          <img src="./assets/nwpu-logo.jpg" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-5">
+          <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
         </div>
       </div>
     </div>

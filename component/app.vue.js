@@ -73,6 +73,7 @@ var appframe = {
       </button>
       <div class="collapse navbar-collapse" id="navbarHome">
         <ul class="navbar-nav">
+
           <li class="nav-item dropdown">
             <button
               class="btn btn-dark dropdown-toggle"
@@ -85,8 +86,15 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="/"> Welcome Page </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="organizingcommittee"> Organizing Committee </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="conferencepolicies"> Conference Policies </router-link>
+              </li>
             </ul>
           </li>
+
           <li class="nav-item dropdown">
             <button
               class="btn btn-dark dropdown-toggle"
@@ -97,10 +105,97 @@ var appframe = {
             </button>
             <ul class="dropdown-menu dropdown-menu-dark">
               <li>
-                <router-link class="nav-link dropdown-item" to="callforpapers"> Call for papers </router-link>
+                <router-link class="nav-link dropdown-item" to="importantdates"> Important Dates </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforpapers"> Call for Papers </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforspecialsession"> Call for Special Session </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforshortcourses"> Call for Short Courses </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforspgrandchallenges"> Call for SP Grand Challenges </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callfortutorials"> Call for Tutorials </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforshowandtelldemos"> Call for Show & Tell Demos </router-link>
               </li>
             </ul>
           </li>
+
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Paper Submission
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="submitconferencepaper"> Submit an AIoTSys Conference Paper </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="paperguidelines"> AIoTSys Paper Guidelines </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="submission"> AIoTSys Submission and Paper Presentations</router-link>
+              </li>
+            </ul>
+          </li>
+
+          <li class="nav-item">
+            <router-link class="nav-link active" to="plenaryspeakers"> Plenary Speakers </router-link>
+          </li>
+
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Program
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="grandchallenges"> Grand Challenges </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="satelliteworkshops"> Satellite Workshops </router-link>
+              </li>
+            </ul>
+          </li>
+
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Venue & Travel
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="venue"> Venue </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="acommodationinformation"> Acommodation Information </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="transportation"> Transportation </router-link>
+              </li>
+            </ul>
+          </li>
+
+          <li class="nav-item">
+            <router-link class="nav-link active" to="contactus"> Contact us </router-link>
+          </li>
+
         </ul>
       </div>
     </div>

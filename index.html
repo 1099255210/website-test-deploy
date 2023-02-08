@@ -71,14 +71,63 @@
     <script src="https://unpkg.com/vue-router@4"></script>
     
     <div id="app"></div>
-
-    <script src="./component/calls/callforpapers.vue.js"></script>
-    <script src="./component/welcomepage.vue.js"></script>
+    
     <script src="./component/app.vue.js"></script>
+
+    <script src="./component/welcomepage.vue.js"></script>
+    <script src="./component/home/organizingcommittee.vue.js"></script>
+    <script src="./component/home/conferencepolicies.vue.js"></script>
+
+    <script src="./component/calls/importantdates.vue.js"></script>
+    <script src="./component/calls/callforpapers.vue.js"></script>
+    <script src="./component/calls/callforspecialsession.vue.js"></script>
+    <script src="./component/calls/callforshortcourses.vue.js"></script>
+    <script src="./component/calls/callforspgrandchallenges.vue.js"></script>
+    <script src="./component/calls/callfortutorials.vue.js"></script>
+    <script src="./component/calls/callforshowandtelldemos.vue.js"></script>
+    
+    <script src="./component/papersubmission/submitconferencepaper.vue.js"></script>
+    <script src="./component/papersubmission/paperguidelines.vue.js"></script>
+    <script src="./component/papersubmission/submission.vue.js"></script>
+    
+    <script src="./component/plenaryspeakers.vue.js"></script>
+
+    <script src="./component/program/grandchallenges.vue.js"></script>
+    <script src="./component/program/satelliteworkshops.vue.js"></script>
+    
+    <script src="./component/venueandtravel/venue.vue.js"></script>
+    <script src="./component/venueandtravel/acommodationinformation.vue.js"></script>
+    <script src="./component/venueandtravel/transportation.vue.js"></script>
+
+    <script src="./component/contactus.vue.js"></script>
     <script>
       const routes = [
         { path: "/", component: welcomePage, title: 'Welcome Page' },
+        { path: "/organizingcommittee", component: organizingCommittee, title: 'Organizing Committee'},
+        { path: "/conferencepolicies", component: conferencePolicies, title: 'Conference Policies'},
+
+        { path: "/importantdates", component: importantDates, title: 'Important Dates'},
         { path: "/callforpapers", component: callForPapers, title: 'Call for Papers'},
+        { path: "/callforspecialsession", component: callForSpecialSession, title: 'Call for Special Session'},
+        { path: "/callforshortcourses", component: callForShortCourses, title: 'Call for Short Courses'},
+        { path: "/callforspgrandchallenges", component: callForSPGrandChallenges, title: 'Call for SP Grand Challenges'},
+        { path: "/callfortutorials", component: callForTutorials, title: 'Call for Tutorials'},
+        { path: "/callforshowandtelldemos", component: callForShowAndTellDemos, title: 'Call for Show and Tell Demos'},
+        
+        { path: "/plenaryspeakers", component: plenarySpeakers, title: 'Plenary Speakers'},
+
+        { path: "/submitconferencepaper", component: submitConferencePaper, title: 'Submit an AIoTSys Conference Paper'},
+        { path: "/paperguidelines", component: paperGuidelines, title: 'AIoTSys Paper Guidelines'},
+        { path: "/submission", component: submission, title: 'AIoTSys Submission and Paper Presentations'},
+        
+        { path: "/grandchallenges", component: grandChallenges, title: 'Grand Challenges'},
+        { path: "/satelliteworkshops", component: satelliteWorkshops, title: 'Satellite Workshops'},
+        
+        { path: "/venue", component: venue, title: 'Venue'},
+        { path: "/acommodationinformation", component: acommodationInformation, title: 'Acommodation Information'},
+        { path: "/transportation", component: venue, title: 'Transportation'},
+
+        { path: "/contactus", component: contactUs, title: 'Contact us'},
       ];
 
       const router = VueRouter.createRouter({

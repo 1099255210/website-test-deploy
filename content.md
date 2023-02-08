@@ -75,16 +75,16 @@ Topics for submissions include but are not limited to the following:
 
 会议首页主页：
 
-- banner：图片换成西安的一张大图片。 会议日期： oct19-22， 2023，地点在xi'an，图片大小参考https://2023.ieeeicassp.org/
+- banner：图片换成西安的一张大图片。 会议日期： oct19-22， 2023，地点在xi'an，图片大小参考 https://2023.ieeeicassp.org/
 
-- 主页内容包括introduction、topics， important date 和sponsors。 
+- 主页内容包括introduction、topics、important date 和 sponsors。 
 
 - introduction和topics在之前的word文档里
 
 - date部分：
-  - paper submission deadline - 2023年7月31日
+  - paper submission deadline: 2023年7月31日
   - notification: 8月31
-  - camera ready ：09-21
+  - camera ready: 09-21
   - conference date： 10月19-22
 
 
