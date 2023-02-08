@@ -1,3 +1,7 @@
+# All the content
+
+## 2023 年前要求
+
 **IEEE AIoT Conference 2023**
 
 **Introduction:**
@@ -65,4 +69,35 @@ Topics for submissions include but are not limited to the following:
 
 ·  XXX 
 
- 
+## 20230208 要求
+
+网站更新：
+
+会议首页主页：
+
+- banner：图片换成西安的一张大图片。 会议日期： oct19-22， 2023，地点在xi'an，图片大小参考https://2023.ieeeicassp.org/
+
+- 主页内容包括introduction、topics， important date 和sponsors。 
+
+- introduction和topics在之前的word文档里
+
+- date部分：
+  - paper submission deadline - 2023年7月31日
+  - notification: 8月31
+  - camera ready ：09-21
+  - conference date： 10月19-22
+
+
+- sponsors部分
+  - IEEE Xi'an: 在网站上找一个logo图片，最好是英文版的 
+  - 西工大：西工大的英文logo
+  - the Belt and Road AIoT International Cooperative (BRAVE) Alliance: ![BRAVE](./assets/brave_logo.jpg)
+
+
+其他页面参考icassp网站除了industry之外都先列出来，空白的部分写上comming soon，先更新：
+- important date页面
+- call for paper页面
+
+### 分析
+
+banner 参考值 1920*548 
