@@ -98,6 +98,48 @@ Topics for submissions include but are not limited to the following:
 - important date页面
 - call for paper页面
 
-### 分析
+Honorary Chair
+-	Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
 
-banner 参考值 1920*548 
+General Chairs
+-	Bin Guo, Northwestern Polytechnical University, China 
+--	Vassilis Kostakos, The University of Melbourne, Australia  
+-	Yan Zhang, University of Oslo, Norway 
+
+Program Chairs
+-	Lina Yao, University of New South Wales, Australia  
+-	Chenren Xu, Peking University, China  
+-	Ying Zhang, Northwestern Polytechnical University, China 
+
+Program Vice-Chairs 
+--	Longfei Shangguan, Microsoft, USA【shanggdlk@gmail.com】
+-	Zhiyong Yu, Fuzhou University, China
+-	Sicong Liu, Northwestern Polytechnical University, China
+
+Panel Chairs
+--	Runhe Huang, Hosei University, Japan 
+--	Liming Chen, De Montfort University, UK , Ulster University, UK 
+
+Industry Chairs  
+--	Rajiv Ratn Shah, IIIT-Delhi, India  
+-	Xiaohai, Bytedance, Singapore （工业界）
+
+Tutorial Chairs 
+-	Trung Duong, Queen’s University Belfast, UK   
+-	Zhu Wang, Northwestern Polytechnical University, China
+
+Publicity Chairs 
+-	Wen Sun, Northwestern Polytechnical University, China
+-	Nan Gao, Tsinghua University, China
+-	Yuxuan Liang, National University of Singapore, Singapore  
+
+Special Session Chairs
+-	Yifang Yin, Institute of Infocomm Research, Singapore
+--	Longbiao Chen, Xiamen University, China
+-	Liang Wang, Northwestern Polytechnical University, China
+
+Local & Web Chairs
+-	Helei Cui, Northwestern Polytechnical University, China
+-	Yunji Liang, Northwestern Polytechnical University, China
+-	Bo Yang, Northwestern Polytechnical University, China
+-	Zhuo Sun, Northwestern Polytechnical University, China
