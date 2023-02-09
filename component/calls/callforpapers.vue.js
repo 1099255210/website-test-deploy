@@ -31,7 +31,7 @@ var callForPapers = {
 					<p class="committee"><strong>Panel Chairs</strong></p>
 
 					<p class="committee"><strong>Industry Chairs</strong></p>
-					<p class="committee-name">Xiaohai, Bytedance, Singapore （工业界）</p>
+					<p class="committee-name">Xiaohai, Bytedance, Singapore</p>
 
 					<p class="committee"><strong>Tutorial Chairs </strong></p>
 					<p class="committee-name">Trung Duong, Queen's University Belfast, UK</p>
@@ -44,6 +44,7 @@ var callForPapers = {
 
 					<p class="committee"><strong>Special Session Chairs</strong></p>
 					<p class="committee-name">Yifang Yin, Institute of Infocomm Research, Singapore</p>
+					<p class="committee-name">Longbiao Chen, Xiamen University, China</p>
 					<p class="committee-name">Liang Wang, Northwestern Polytechnical University, China</p>
 
 					<p class="committee"><strong>Local & Web Chairs</strong></p>

@@ -1,47 +1,5 @@
 var appframe = { 
 	template: `
-  <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-    <div class="container">
-      <a href="#" class="navbar-brand">AIoTSys 2023</a>
-
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navmenu"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navmenu">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.ieee.org/">IEEE.org</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://ieeexplore.ieee.org/"
-              >IEEE Xplore Digital Library</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://standards.ieee.org/"
-              >IEEE Standards</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://spectrum.ieee.org/"
-              >IEEE Spectrum</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.ieee.org/sitemap.html"
-              >More Sites</a
-            >
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-
   <section>
     <div class="container d-flex my-4">
       <a href="#" id="title" class="sm">

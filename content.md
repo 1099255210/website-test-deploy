@@ -98,6 +98,10 @@ Topics for submissions include but are not limited to the following:
 - important date页面
 - call for paper页面
 
+Organizing Committee:
+
+完整信息
+
 Honorary Chair
 -	Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
 
@@ -122,7 +126,7 @@ Panel Chairs
 
 Industry Chairs  
 --	Rajiv Ratn Shah, IIIT-Delhi, India  
--	Xiaohai, Bytedance, Singapore （工业界）
+-	Xiaohai, Bytedance, Singapore
 
 Tutorial Chairs 
 -	Trung Duong, Queen’s University Belfast, UK   
@@ -135,7 +139,7 @@ Publicity Chairs
 
 Special Session Chairs
 -	Yifang Yin, Institute of Infocomm Research, Singapore
---	Longbiao Chen, Xiamen University, China
+-	Longbiao Chen, Xiamen University, China
 -	Liang Wang, Northwestern Polytechnical University, China
 
 Local & Web Chairs
@@ -143,3 +147,6 @@ Local & Web Chairs
 -	Yunji Liang, Northwestern Polytechnical University, China
 -	Bo Yang, Northwestern Polytechnical University, China
 -	Zhuo Sun, Northwestern Polytechnical University, China
+
+简略信息+头像版本：
+
