@@ -10,12 +10,12 @@ var appframe = {
       </a>
     </div>
     <img
-      src="../assets/header-1.png"
+      src="./assets/header-1.png"
       alt="webp"
       class="w-100 d-none d-lg-block"
     />
     <img
-      src="../assets/header-mobile.png"
+      src="./assets/header-mobile.png"
       alt="webp"
       class="w-100 d-lg-none"
     />
