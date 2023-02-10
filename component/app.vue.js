@@ -4,8 +4,8 @@ var appframe = {
     <div class="container d-flex my-4">
       <a href="#" id="title" class="sm">
         <p class="header-title">
-          International conference on Artificial intelligence of things and
-          systems
+          International Conference on Artificial Intelligence of Things and
+          Systems
         </p>
       </a>
     </div>

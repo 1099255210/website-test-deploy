@@ -196,3 +196,19 @@ Local & Web Chairs
 -	Yunji Liang, Northwestern Polytechnical University, China
 -	Bo Yang, Northwestern Polytechnical University, China
 -	Zhuo Sun, Northwestern Polytechnical University, China
+
+## 20230210 修改意见
+
+工业界那几个字麻烦去掉。陈龙彪老师的可以加上了。另外，icassp网站上是采用照片+职称这种形式，还麻烦你也按照这个格式更改一下。老师们的照片，需要你在网上找一下。
+
+郭老师说把banner图片换成兵马俑，移动端好像看不到图片，估计还要调整一下。最上面有个IEEE的黑色导航栏，去掉。
+
+conference title里面， Aritificial， Intelligence，Things Systems都要首字母大写，简称是AIoTSys，放在title后面
+
+calls 里面，暂时只保留important dates 和 call for paper两个页面
+
+venue把西安的介绍先放进去。
+
+contact里面，先写郭斌老师和我的邮箱（guob@nwpu.edu.cn，izhangying@nwpu.edu.cn）
+
+program下面，放program，invited talk， best paper award三个子页面
