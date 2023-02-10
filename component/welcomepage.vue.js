@@ -27,9 +27,9 @@ var welcomePage = {
           <p class="main-p">
             The
             <strong
-              >2023 International conference on Artificial intelligence of
-              things and systems</strong
-            >
+              >2023 International conference on Artificial Intelligence of
+              Things and Systems (AIoTSys)</strong
+            > 
             is an event focused on the artificial intelligence (AI) and the
             Internet of Things (IoT) intersection. The conference brings
             together researchers, industry professionals, and practitioners

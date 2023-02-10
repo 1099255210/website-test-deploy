@@ -68,21 +68,6 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="callforpapers"> Call for Papers </router-link>
               </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="callforspecialsession"> Call for Special Session </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="callforshortcourses"> Call for Short Courses </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="callforspgrandchallenges"> Call for SP Grand Challenges </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="callfortutorials"> Call for Tutorials </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="callforshowandtelldemos"> Call for Show & Tell Demos </router-link>
-              </li>
             </ul>
           </li>
 
@@ -121,10 +106,13 @@ var appframe = {
             </button>
             <ul class="dropdown-menu dropdown-menu-dark">
               <li>
-                <router-link class="nav-link dropdown-item" to="grandchallenges"> Grand Challenges </router-link>
+                <router-link class="nav-link dropdown-item" to="program"> Program </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="satelliteworkshops"> Satellite Workshops </router-link>
+                <router-link class="nav-link dropdown-item" to="invitedtalk"> Invited Talk </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="bestpaperaward"> Best Paper Award </router-link>
               </li>
             </ul>
           </li>

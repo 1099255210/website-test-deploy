@@ -73,6 +73,22 @@
         margin-bottom: 0px;
         font-size: 0.9rem;
       }
+      .committee-title {
+        margin-top: 5rem;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+        color: #1b75bb;
+        text-align: center;
+      }
+      .commitee-text {
+        color: #888888;
+      }
+      .crop {
+        width: 100%;
+        object-fit: cover;
+        object-position: 0px 20%;
+        max-height: 18rem;
+      }
     </style>
   </head>
   <body>
@@ -103,6 +119,9 @@
 
     <script src="./component/program/grandchallenges.vue.js"></script>
     <script src="./component/program/satelliteworkshops.vue.js"></script>
+    <script src="./component/program/program.vue.js"></script>
+    <script src="./component/program/invitedtalk.vue.js"></script>
+    <script src="./component/program/bestpaperaward.vue.js"></script>
     
     <script src="./component/venueandtravel/venue.vue.js"></script>
     <script src="./component/venueandtravel/acommodationinformation.vue.js"></script>
@@ -131,6 +150,9 @@
         
         { path: "/grandchallenges", component: grandChallenges, title: 'Grand Challenges'},
         { path: "/satelliteworkshops", component: satelliteWorkshops, title: 'Satellite Workshops'},
+        { path: "/program", component: program, title: 'Program'},
+        { path: "/invitedtalk", component: invitedTalk, title: 'Invitedtalk'},
+        { path: "/bestpaperaward", component: bestPaperAward, title: 'Best Paper Award'},
         
         { path: "/venue", component: venue, title: 'Venue'},
         { path: "/acommodationinformation", component: acommodationInformation, title: 'Acommodation Information'},
