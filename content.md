@@ -148,5 +148,51 @@ Local & Web Chairs
 -	Bo Yang, Northwestern Polytechnical University, China
 -	Zhuo Sun, Northwestern Polytechnical University, China
 
+20230209
 简略信息+头像版本：
 
+Honorary Chair
+-	Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
+
+General Chairs
+-	Bin Guo, Northwestern Polytechnical University, China 
+--	Vassilis Kostakos, The University of Melbourne, Australia  
+-	Yan Zhang, University of Oslo, Norway 
+
+Program Chairs
+-	Lina Yao, University of New South Wales, Australia  
+-	Chenren Xu, Peking University, China  
+-	Ying Zhang, Northwestern Polytechnical University, China 
+
+Program Vice-Chairs 
+--	Longfei Shangguan, Microsoft, USA【shanggdlk@gmail.com】
+-	Zhiyong Yu, Fuzhou University, China
+-	Sicong Liu, Northwestern Polytechnical University, China
+
+Panel Chairs
+--	Runhe Huang, Hosei University, Japan 
+--	Liming Chen, De Montfort University, UK , Ulster University, UK 
+
+Industry Chairs  
+--	Rajiv Ratn Shah, IIIT-Delhi, India  
+-	Xiaohai, Bytedance, Singapore
+
+Tutorial Chairs 
+-	Trung Duong, Queen’s University Belfast, UK   
+-	Zhu Wang, Northwestern Polytechnical University, China
+
+Publicity Chairs 
+-	Wen Sun, Northwestern Polytechnical University, China
+-	Nan Gao, Tsinghua University, China
+-	Yuxuan Liang, National University of Singapore, Singapore  
+
+Special Session Chairs
+-	Yifang Yin, Institute of Infocomm Research, Singapore
+-	Longbiao Chen, Xiamen University, China
+-	Liang Wang, Northwestern Polytechnical University, China
+
+Local & Web Chairs
+-	Helei Cui, Northwestern Polytechnical University, China
+-	Yunji Liang, Northwestern Polytechnical University, China
+-	Bo Yang, Northwestern Polytechnical University, China
+-	Zhuo Sun, Northwestern Polytechnical University, China
