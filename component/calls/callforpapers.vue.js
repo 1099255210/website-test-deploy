@@ -29,9 +29,13 @@ var callForPapers = {
 					<p class="committee-name">Sicong Liu, Northwestern Polytechnical University, China</p>
 
 					<p class="committee"><strong>Panel Chairs</strong></p>
+					<p class="committee-name">Runhe Huang, Hosei University, Japan</p>
+					<p class="committee-name"> Liming Chen, Ulster University, UK</p>
 
 					<p class="committee"><strong>Industry Chairs</strong></p>
-					<p class="committee-name">Xiaohai, Bytedance, Singapore</p>
+					<p class="committee-name">Abhirup Ghosh, University of Cambridge, UK</p>
+					<p class="committee-name">Feng Wang, Huawei, China</p>
+					<p class="committee-name">Xiaohai Tian, ByteDance, Singapore</p>
 
 					<p class="committee"><strong>Tutorial Chairs </strong></p>
 					<p class="committee-name">Trung Duong, Queen's University Belfast, UK</p>
