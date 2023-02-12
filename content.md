@@ -148,55 +148,6 @@ Local & Web Chairs
 -	Bo Yang, Northwestern Polytechnical University, China
 -	Zhuo Sun, Northwestern Polytechnical University, China
 
-20230209
-简略信息+头像版本：
-
-Honorary Chair
--	Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
-
-General Chairs
--	Bin Guo, Northwestern Polytechnical University, China 
---	Vassilis Kostakos, The University of Melbourne, Australia  
--	Yan Zhang, University of Oslo, Norway 
-
-Program Chairs
--	Lina Yao, University of New South Wales, Australia  
--	Chenren Xu, Peking University, China  
--	Ying Zhang, Northwestern Polytechnical University, China 
-
-Program Vice-Chairs 
---	Longfei Shangguan, Microsoft, USA【shanggdlk@gmail.com】
--	Zhiyong Yu, Fuzhou University, China
--	Sicong Liu, Northwestern Polytechnical University, China
-
-Panel Chairs
---	Runhe Huang, Hosei University, Japan 
---	Liming Chen, De Montfort University, UK , Ulster University, UK 
-
-Industry Chairs  
---	Rajiv Ratn Shah, IIIT-Delhi, India  
--	Xiaohai, Bytedance, Singapore
-
-Tutorial Chairs 
--	Trung Duong, Queen’s University Belfast, UK   
--	Zhu Wang, Northwestern Polytechnical University, China
-
-Publicity Chairs 
--	Wen Sun, Northwestern Polytechnical University, China
--	Nan Gao, Tsinghua University, China
--	Yuxuan Liang, National University of Singapore, Singapore  
-
-Special Session Chairs
--	Yifang Yin, Institute of Infocomm Research, Singapore
--	Longbiao Chen, Xiamen University, China
--	Liang Wang, Northwestern Polytechnical University, China
-
-Local & Web Chairs
--	Helei Cui, Northwestern Polytechnical University, China
--	Yunji Liang, Northwestern Polytechnical University, China
--	Bo Yang, Northwestern Polytechnical University, China
--	Zhuo Sun, Northwestern Polytechnical University, China
-
 ## 20230210 修改意见
 
 工业界那几个字麻烦去掉。陈龙彪老师的可以加上了。另外，icassp网站上是采用照片+职称这种形式，还麻烦你也按照这个格式更改一下。老师们的照片，需要你在网上找一下。
@@ -212,3 +163,22 @@ venue把西安的介绍先放进去。
 contact里面，先写郭斌老师和我的邮箱（guob@nwpu.edu.cn，izhangying@nwpu.edu.cn）
 
 program下面，放program，invited talk， best paper award三个子页面
+
+## 20230212 修改内容
+
+你好，请更新以下信息：
+
+更新chair信息，包括以下
+- 图片更换：zhiyong yu，sicong liu， wen sun， liang wang
+- 文字更换：xiaohai 改为 xiaohai tian， Bytedance改为ByteDance
+- 新增chair： 
+  panel chair：
+  1） Runhe Huang, Hosei University, Japan
+  2） Liming Chen, Ulster University, UK 
+  Industry chair
+  1）Abhirup Ghosh, University of Cambridge, UK
+  2）Feng Wang， Huawei， China
+
+- 新增sponser：
+1） 华为，华为的logo我发给你，
+2） 浪潮，logo从网上爬一下（https://www.inspur.com/）

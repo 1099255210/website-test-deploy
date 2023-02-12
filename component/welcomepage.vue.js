@@ -132,6 +132,14 @@ var welcomePage = {
           <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
         </div>
       </div>
+      <div class="row" style="align-items: center;">
+        <div class="col-md-6">
+          <img src="./assets/huaweiyun.jpg" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-6">
+          <img src="./assets/inspur.png" class="img-fluid" alt="...">
+        </div>
+      </div>
     </div>
   </section>
   `
