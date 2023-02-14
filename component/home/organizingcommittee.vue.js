@@ -32,6 +32,17 @@ var organizingCommittee = {
           </div>
         </div>
       </div>
+
+      <p class="committee-title"><strong>General Co-Chairs</strong></p>
+      <div class="row">
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/shibohe.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Shibo He</h5>
+            <p class="card-text commitee-text">Zhejiang University, China</p>
+          </div>
+        </div>
+      </div>
       
       <p class="committee-title"><strong>Program Chairs</strong></p>
       <div class="row">
@@ -72,6 +83,13 @@ var organizingCommittee = {
           <div class="card-body">
             <h5 class="card-title">Sicong Liu</h5>
             <p class="card-text commitee-text">Northwestern Polytechnical University, China</p>
+          </div>
+        </div>
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/zimuzhou.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Zimu Zhou</h5>
+            <p class="card-text commitee-text">City University of Hong Kong, China</p>
           </div>
         </div>
       </div>

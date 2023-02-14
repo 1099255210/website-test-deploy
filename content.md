@@ -182,3 +182,33 @@ program下面，放program，invited talk， best paper award三个子页面
 - 新增sponser：
 1） 华为，华为的logo我发给你，
 2） 浪潮，logo从网上爬一下（https://www.inspur.com/）
+
+## 20230214 修改内容
+
+Program Vice-Chairs 请加入zimu zhou， https://zhouzimu.github.io/
+
+venue 更新：
+Xi'an, known as Chang'an in ancient times, is one of world-famous four civilized capitals. As a capital, it lasted the longest with the most dynasties, making the greatest influence in Chinese history. As the start of the ancient Silk Road, it has played a unique role in promoting cultural exchanges between China and the West both in history and the future.
+
+Xi’an is a combination of the classic and the modern. The inner city is surrounded by a well-preserved City wall which was re-constructed in the 14th century during the early Ming Dynasty. The Mausoleum of Qin Shi Huang and his Terracotta Army are located 40 km to the east of the city center, in the city's suburbs. The Bell Tower and Drum Tower, both are located at the city's central axis. Meanwhile, Xi’an is open to high-tech and emerging industries. Many technology companies locate in Gaoxin Area. Based on the advanced research facilities and outstanding talents, Xi’an has a strong background on scientific research. In the past decades, this city has been making achievements in multiple areas.
+
+图片下面加上兵马俑，钟楼和大雁塔的英文名
+
+
+Conference Policies
+
+Non-Presented Paper (No-Show) Policy: Any accepted paper included in the final program is expected to have at least one author or qualified proxy attend and present the paper at the conference. If a paper is not presented at the conference, the paper will not be published by IEEE on IEEE Xplore® or other public access forums, but these papers will be distributed to conference attendees as conference proceedings and the copyright of these papers will belong to IEEE.  
+
+Exceptions to this policy will be made by the Technical Program Chair(s) of the conference only if there is evidence that the no-show occurred because of unanticipated events beyond the control of the authors, and every option available to the authors to present the paper was exhausted. The no-show authors may appeal the decision of the Technical Program Chair to the VP-Conferences.
+
+Conference Paper Reproducibility and Supporting Content
+It is recommended that authors are offered the ability to share datasets, code and other supporting content associated with accepted papers. The below platforms support reproducibility and publicity for posters and/or presentation files that accompany a conference paper. These below options can be added to the Call for Papers, conference website, and author acceptance email, as well as mentioned during the conference:
+•	Increase the visibility, impact, and reproducibility of your research.
+•	Free resources are available to upload content associated with your paper
+
+IEEE Event Terms and Conditions
+https://www.ieee.org/conferences/event-terms-and-conditions.html
+IEEE Privacy Policy
+https://www.ieee.org/security-privacy.html
+
+新增一栏 general co-chair， Shibo He， Zhejiang Univerisity， https://person.zju.edu.cn/shibohe

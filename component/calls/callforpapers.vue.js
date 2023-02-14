@@ -18,6 +18,9 @@ var callForPapers = {
 					<p class="committee"><strong>General Chairs</strong></p>
 					<p class="committee-name">Bin Guo, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Yan Zhang, University of Oslo, Norway</p>
+					
+					<p class="committee"><strong>General Co-Chairs</strong></p>
+					<p class="committee-name">Shibo He, Zhejiang University, China</p>
 
 					<p class="committee"><strong>Program Chairs</strong></p>
 					<p class="committee-name">Lina Yao, University of New South Wales, Australia</p>
@@ -27,6 +30,7 @@ var callForPapers = {
 					<p class="committee"><strong>Program Vice-Chairs</strong></p>
 					<p class="committee-name">Zhiyong Yu, Fuzhou University, China</p>
 					<p class="committee-name">Sicong Liu, Northwestern Polytechnical University, China</p>
+					<p class="committee-name">Zimu Zhou, City University of Hong Kong, China</p>
 
 					<p class="committee"><strong>Panel Chairs</strong></p>
 					<p class="committee-name">Runhe Huang, Hosei University, Japan</p>
