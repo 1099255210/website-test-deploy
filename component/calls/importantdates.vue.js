@@ -8,7 +8,7 @@ var importantDates = {
 
           <div class="d-flex justify-content-between">
             <p>Paper Submissions Deadline</p>
-            <p>31 July 2023</p>
+            <p>15 June 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Notification</p>
