@@ -140,6 +140,20 @@ var welcomePage = {
           <img src="./assets/inspur.png" class="img-fluid" alt="...">
         </div>
       </div>
+      <div class="row" style="align-items: center;">
+        <div class="col-md-3">
+          <img src="./assets/caa.jpg" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-3">
+          <img src="./assets/ccf.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-3">
+          <img src="./assets/sigbedchina.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-3">
+          <img src="./assets/sigbed.png" class="img-fluid" alt="...">
+        </div>
+      </div>
     </div>
   </section>
   `
