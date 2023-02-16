@@ -121,14 +121,14 @@ var welcomePage = {
   <section class="p-5">
     <div class="container">
       <p class="conf-title">Sponsors</p>
-      <div class="row">
+      <div class="row" style="align-items: center;">
         <div class="col-md-4">
           <img src="./assets/ieeexian.png" class="img-fluid" alt="...">
         </div>
         <div class="col-md-2">
           <img src="./assets/nwpu-logo.jpg" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-5">
+        <div class="col-md-6">
           <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
         </div>
       </div>
