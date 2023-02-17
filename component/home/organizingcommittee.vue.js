@@ -25,6 +25,13 @@ var organizingCommittee = {
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/vassiliskostakos.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Vassilis Kostakos</h5>
+            <p class="card-text commitee-text">The University of Melbourne, Australia</p>
+          </div>
+        </div>
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
           <img src="./assets/commitee/yanzhang.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Yan Zhang</h5>
@@ -143,7 +150,14 @@ var organizingCommittee = {
           <img src="./assets/commitee/trungduong.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Trung Duong</h5>
-            <p class="card-text commitee-text">Queen’s University Belfast, UK</p>
+            <p class="card-text commitee-text">Queen's University Belfast, UK</p>
+          </div>
+        </div>
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/weiweijiang.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Weiwei Jiang</h5>
+            <p class="card-text commitee-text">University of Melbourne, Australia</p>
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">

@@ -6,7 +6,7 @@
 
 **Introduction:**
 
-Artificial Intelligence of Things (AIoT), refers to the integration of artificial intelligence (AI) technologies with the Internet of Things (IoT). This integration allows AIoT end, edge, and server devices connected to the internet, such as smart home devices and industrial equipment, they collect, analyze, and act on data in real time. The combination of AI and IoT enables a wide range of applications, including predictive maintenance, automation, and improved decision-making. For example, an AIoT system in the factory could monitor equipment and predict when it is likely to fail, allowing maintenance to be scheduled before a breakdown occurs. The AIoT system could optimize energy consumption in the smart home by learning a household's patterns and adjusting settings accordingly. The IEEE AIoT Conference 2023 is an event focused on the artificial intelligence (AI) and the Internet of Things (IoT) intersection. The conference brings together researchers, industry professionals, and practitioners worldwide to share their latest findings, insights, and innovations. The IEEE AIoT Conference 2023 will include a highly selective program of technical papers accompanied by workshops, demos, panel discussions, and keynote speeches. We welcome high-quality articles that describe original and unpublished research advancing state of art in ubiquitous intelligence and computing.  
+Artificial Intelligence of Things (AIoT), refers to the integration of artificial intelligence (AI) technologies with the Internet of Things (IoT). This integration allows AIoT end, edge, and server devices connected to the internet, such as smart home devices and industrial equipment, they collect, analyze, and act on data in real time. The combination of AI and IoT enables a wide range of applications, including predictive maintenance, automation, and improved decision-making. For example, an AIoT system in the factory could monitor equipment and predict when it is likely to fail, allowing maintenance to be scheduled before a breakdown occurs. The AIoT system could optimize energy consumption in the smart home by learning a household's patterns and adjusting settings accordingly. The IEEE AIoT Conference 2023 is an event focused on the artificial intelligence (AI) and the Internet of Things (IoT) intersection. The conference brings together researchers, industry professionals, and practitioners worldwide to share their latest findings, insights, and innovations. The IEEE AIoT Conference 2023 will include a highly selective program of technical papers accompanied by workshops, demos, panel discussions, and keynote speeches. We welcome high-quality articles that describe original and unpublished research advancing state of art in ubiquitous intelligence and computing.
 
 Topics for submissions include but are not limited to the following:
 
@@ -33,7 +33,6 @@ Topics for submissions include but are not limited to the following:
 - Software architectures for AIoT devices and computing
 - Operating systems for AIoT devices
 - System-level energy management for AIoT devices
-
 
 **General Chairs**
 
@@ -63,11 +62,11 @@ Topics for submissions include but are not limited to the following:
 
 •  XXX
 
-**Confirmed Program Committee** 
+**Confirmed Program Committee**
 
 (Sort in alphabetical order)
 
-·  XXX 
+·  XXX
 
 ## 20230208 要求
 
@@ -76,25 +75,22 @@ Topics for submissions include but are not limited to the following:
 会议首页主页：
 
 - banner：图片换成西安的一张大图片。 会议日期： oct19-22， 2023，地点在xi'an，图片大小参考 https://2023.ieeeicassp.org/
-
-- 主页内容包括introduction、topics、important date 和 sponsors。 
-
+- 主页内容包括introduction、topics、important date 和 sponsors。
 - introduction和topics在之前的word文档里
-
 - date部分：
+
   - paper submission deadline: 2023年7月31日
   - notification: 8月31
   - camera ready: 09-21
   - conference date： 10月19-22
-
-
 - sponsors部分
-  - IEEE Xi'an: 在网站上找一个logo图片，最好是英文版的 
+
+  - IEEE Xi'an: 在网站上找一个logo图片，最好是英文版的
   - 西工大：西工大的英文logo
   - the Belt and Road AIoT International Cooperative (BRAVE) Alliance: ![BRAVE](./assets/brave_logo.jpg)
 
-
 其他页面参考icassp网站除了industry之外都先列出来，空白的部分写上comming soon，先更新：
+
 - important date页面
 - call for paper页面
 
@@ -103,50 +99,58 @@ Organizing Committee:
 完整信息
 
 Honorary Chair
--	Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
+
+- Zhiwen Yu, Harbin Engineering University / Northwestern Polytechnical University, China
 
 General Chairs
--	Bin Guo, Northwestern Polytechnical University, China 
---	Vassilis Kostakos, The University of Melbourne, Australia  
--	Yan Zhang, University of Oslo, Norway 
+
+- Bin Guo, Northwestern Polytechnical University, China
+  --	Vassilis Kostakos, The University of Melbourne, Australia
+- Yan Zhang, University of Oslo, Norway
 
 Program Chairs
--	Lina Yao, University of New South Wales, Australia  
--	Chenren Xu, Peking University, China  
--	Ying Zhang, Northwestern Polytechnical University, China 
 
-Program Vice-Chairs 
+- Lina Yao, University of New South Wales, Australia
+- Chenren Xu, Peking University, China
+- Ying Zhang, Northwestern Polytechnical University, China
+
+Program Vice-Chairs
 --	Longfei Shangguan, Microsoft, USA【shanggdlk@gmail.com】
--	Zhiyong Yu, Fuzhou University, China
--	Sicong Liu, Northwestern Polytechnical University, China
+
+- Zhiyong Yu, Fuzhou University, China
+- Sicong Liu, Northwestern Polytechnical University, China
 
 Panel Chairs
---	Runhe Huang, Hosei University, Japan 
---	Liming Chen, De Montfort University, UK , Ulster University, UK 
+--	Runhe Huang, Hosei University, Japan
+--	Liming Chen, De Montfort University, UK , Ulster University, UK
 
-Industry Chairs  
---	Rajiv Ratn Shah, IIIT-Delhi, India  
--	Xiaohai, Bytedance, Singapore
+Industry Chairs--	Rajiv Ratn Shah, IIIT-Delhi, India
 
-Tutorial Chairs 
--	Trung Duong, Queen’s University Belfast, UK   
--	Zhu Wang, Northwestern Polytechnical University, China
+- Xiaohai, Bytedance, Singapore
 
-Publicity Chairs 
--	Wen Sun, Northwestern Polytechnical University, China
--	Nan Gao, Tsinghua University, China
--	Yuxuan Liang, National University of Singapore, Singapore  
+Tutorial Chairs
+
+- Trung Duong, Queen’s University Belfast, UK
+- Zhu Wang, Northwestern Polytechnical University, China
+
+Publicity Chairs
+
+- Wen Sun, Northwestern Polytechnical University, China
+- Nan Gao, Tsinghua University, China
+- Yuxuan Liang, National University of Singapore, Singapore
 
 Special Session Chairs
--	Yifang Yin, Institute of Infocomm Research, Singapore
--	Longbiao Chen, Xiamen University, China
--	Liang Wang, Northwestern Polytechnical University, China
+
+- Yifang Yin, Institute of Infocomm Research, Singapore
+- Longbiao Chen, Xiamen University, China
+- Liang Wang, Northwestern Polytechnical University, China
 
 Local & Web Chairs
--	Helei Cui, Northwestern Polytechnical University, China
--	Yunji Liang, Northwestern Polytechnical University, China
--	Bo Yang, Northwestern Polytechnical University, China
--	Zhuo Sun, Northwestern Polytechnical University, China
+
+- Helei Cui, Northwestern Polytechnical University, China
+- Yunji Liang, Northwestern Polytechnical University, China
+- Bo Yang, Northwestern Polytechnical University, China
+- Zhuo Sun, Northwestern Polytechnical University, China
 
 ## 20230210 修改意见
 
@@ -169,19 +173,19 @@ program下面，放program，invited talk， best paper award三个子页面
 你好，请更新以下信息：
 
 更新chair信息，包括以下
+
 - 图片更换：zhiyong yu，sicong liu， wen sun， liang wang
 - 文字更换：xiaohai 改为 xiaohai tian， Bytedance改为ByteDance
-- 新增chair： 
+- 新增chair：
   panel chair：
   1） Runhe Huang, Hosei University, Japan
-  2） Liming Chen, Ulster University, UK 
+  2） Liming Chen, Ulster University, UK
   Industry chair
   1）Abhirup Ghosh, University of Cambridge, UK
   2）Feng Wang， Huawei， China
-
 - 新增sponser：
-1） 华为，华为的logo我发给你，
-2） 浪潮，logo从网上爬一下（https://www.inspur.com/）
+  1） 华为，华为的logo我发给你，
+  2） 浪潮，logo从网上爬一下（https://www.inspur.com/）
 
 ## 20230214 修改内容
 
@@ -194,10 +198,9 @@ Xi’an is a combination of the classic and the modern. The inner city is surrou
 
 图片下面加上兵马俑，钟楼和大雁塔的英文名
 
-
 Conference Policies
 
-Non-Presented Paper (No-Show) Policy: Any accepted paper included in the final program is expected to have at least one author or qualified proxy attend and present the paper at the conference. If a paper is not presented at the conference, the paper will not be published by IEEE on IEEE Xplore® or other public access forums, but these papers will be distributed to conference attendees as conference proceedings and the copyright of these papers will belong to IEEE.  
+Non-Presented Paper (No-Show) Policy: Any accepted paper included in the final program is expected to have at least one author or qualified proxy attend and present the paper at the conference. If a paper is not presented at the conference, the paper will not be published by IEEE on IEEE Xplore® or other public access forums, but these papers will be distributed to conference attendees as conference proceedings and the copyright of these papers will belong to IEEE.
 
 Exceptions to this policy will be made by the Technical Program Chair(s) of the conference only if there is evidence that the no-show occurred because of unanticipated events beyond the control of the authors, and every option available to the authors to present the paper was exhausted. The no-show authors may appeal the decision of the Technical Program Chair to the VP-Conferences.
 
@@ -212,3 +215,12 @@ IEEE Privacy Policy
 https://www.ieee.org/security-privacy.html
 
 新增一栏 general co-chair， Shibo He， Zhejiang Univerisity， https://person.zju.edu.cn/shibohe
+
+## 20230217 更新
+
+1)新增general chair
+Vassilis Kostakos, The University of Melbourne, Australia
+https://scholar.google.com/citations?user=JnWGV4kAAAAJ&hl=en
+2)新增tutorial chair
+Weiwei Jiang, University of Melbourne, Australia
+http://www.weiweijiang.xyz/

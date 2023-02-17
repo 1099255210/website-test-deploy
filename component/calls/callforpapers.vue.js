@@ -17,6 +17,7 @@ var callForPapers = {
 					
 					<p class="committee"><strong>General Chairs</strong></p>
 					<p class="committee-name">Bin Guo, Northwestern Polytechnical University, China</p>
+					<p class="committee-name">Vassilis Kostakos, The University of Melbourne, Australia</p>
 					<p class="committee-name">Yan Zhang, University of Oslo, Norway</p>
 					
 					<p class="committee"><strong>General Co-Chairs</strong></p>
@@ -43,6 +44,7 @@ var callForPapers = {
 
 					<p class="committee"><strong>Tutorial Chairs </strong></p>
 					<p class="committee-name">Trung Duong, Queen's University Belfast, UK</p>
+					<p class="committee-name">Weiwei Jiang, University of Melbourne, Australia</p>
 					<p class="committee-name">Zhu Wang, Northwestern Polytechnical University, China</p>
 
 					<p class="committee"><strong>Publicity Chairs</strong></p>
