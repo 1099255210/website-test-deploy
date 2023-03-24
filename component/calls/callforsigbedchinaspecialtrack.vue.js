@@ -31,17 +31,19 @@ var callForSigbedChinaSpecialTrack = {
       </p>
 
       <p class="main-p">
-        <li>New platforms and hardware designs for sensing systems</li>
-        <li>Various sensing systems, including camera, WIFI, RFID, radar, acoustic, etc.</li>
-        <li>Device-free and non-intrusive sensing</li>
-        <li>Mobile crowdsensing and application</li>
-        <li>Sensing data analysis, process and management</li>
-        <li>Models for contactless sensing, understanding, and adaptation</li>
-        <li>AI-enabled sensing algorithms and systems</li>
-        <li>Intelligent Technologies and Systems for Smart Healthcare </li>
-        <li>Sensing applications, including vital sign sensing, fall detection, gesture recognition, activity sensing and etc.</li>
-        <li>Systems for location, tracking, context sensing and awareness</li>
-        <li>Non-traditional topics that bring new perspectives to mobile sensing </li>
+        <ul>
+          <li>New platforms and hardware designs for sensing systems</li>
+          <li>Various sensing systems, including camera, WIFI, RFID, radar, acoustic, etc.</li>
+          <li>Device-free and non-intrusive sensing</li>
+          <li>Mobile crowdsensing and application</li>
+          <li>Sensing data analysis, process and management</li>
+          <li>Models for contactless sensing, understanding, and adaptation</li>
+          <li>AI-enabled sensing algorithms and systems</li>
+          <li>Intelligent Technologies and Systems for Smart Healthcare </li>
+          <li>Sensing applications, including vital sign sensing, fall detection, gesture recognition, activity sensing and etc.</li>
+          <li>Systems for location, tracking, context sensing and awareness</li>
+          <li>Non-traditional topics that bring new perspectives to mobile sensing </li>
+        </ul>
       </p>
 
       <p class="conf-subtitle">2.Submission information:</p>

@@ -90,16 +90,19 @@ var welcomePage = {
         </div>
 
         <p class="main-p">
-          Other than the general tracks, AIoTSys 2023 hosts two special tracks: 
+          <strong>Other than the general tracks</strong>, AIoTSys 2023 hosts two special tracks: 
+        </p>
+        
+        <p class="main-p">
           <ul>
-            <li>CAA special track </li>
-            <li>SIGBED CHINA special track</li>
+            <li><a href="index.html#/callforcaaspecialtrack">CAA special track</a></li>
+            <li><a href="index.html#/callforsigbedchinaspecialtrack">SIGBED CHINA special track</a></li>
           </ul>
           For papers submitted to these special tracks, they will be peer 
           reviewed by the guested PCs and editors. The accepted papers, after 
           conference presentation and extension, will be recommended to 
-          selected journals as fast submission. Please checked the information 
-          from CAA special track and SIGBED CHINA special track. 
+          selected journals as fast submission. Please check the information 
+          from CAA special track and SIGBED CHINA special track.
         </p>
       </div>
     </div>
