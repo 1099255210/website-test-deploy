@@ -47,8 +47,22 @@ var welcomePage = {
 
   <section>
     <div class="container">
-      <p class="conf-title">Topics</p>
+      <p class="conf-subtitle">Topics</p>
       <div class="row">
+
+        <p class="main-p">
+          Other than the general tracks, AIoTSys 2023 hosts two special tracks: 
+          <ul>
+            <li>CAA special track </li>
+            <li>SIGBED CHINA special track</li>
+          </ul>
+          For papers submitted to these special tracks, they will be peer 
+          reviewed by the guested PCs and editors. The accepted papers, after 
+          conference presentation and extension, will be recommended to 
+          selected journals as fast submission. Please checked the information 
+          from CAA special track and SIGBED CHINA special track. 
+        </p>
+
         <div class="col-md-8">
           <p class="main-p">
             Topics for submissions include but are not limited to the
@@ -93,7 +107,7 @@ var welcomePage = {
 
   <section>
     <div class="container">
-      <p class="conf-title">Important Dates</p>
+      <p class="conf-subtitle">Important Dates</p>
       <div class="row">
         <div class="col-md-6">
 
@@ -120,7 +134,7 @@ var welcomePage = {
 
   <section class="p-5">
     <div class="container">
-      <p class="conf-title">Sponsors</p>
+      <p class="conf-subtitle">Sponsors</p>
       <div class="row" style="align-items: center;">
         <div class="col-md-4">
           <img src="./assets/ieeexian.png" class="img-fluid" alt="...">
@@ -141,17 +155,14 @@ var welcomePage = {
         </div>
       </div>
       <div class="row" style="align-items: center;">
-        <div class="col-md-3">
+        <div class="col-md-4">
           <img src="./assets/caa.jpg" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
           <img src="./assets/ccf.png" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
           <img src="./assets/sigbedchina.png" class="img-fluid" alt="...">
-        </div>
-        <div class="col-md-3">
-          <img src="./assets/sigbed.png" class="img-fluid" alt="...">
         </div>
       </div>
     </div>

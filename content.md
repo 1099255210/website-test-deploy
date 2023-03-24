@@ -227,7 +227,6 @@ http://www.weiweijiang.xyz/
 
 ## 20230310 更新
 
-
 **General Paper Submissions**
 
 Prospective
@@ -268,3 +267,131 @@ restriction. Within one week of paper acceptance notification,
 travel-restricted authors must notify the conference secretary with proof of
 their restriction. Substitute presenters may be possible or, depending on
 conference resources, such as a remote presentation or pre-recorded video.
+
+## 20230324 更新
+
+
+-在主页topics下面加入一段说明 （第一个word文件）
+-去除sigbed的logo
+-加入两个新的页面（Calls下面）： Call for CAA Special Track （先保持空白）以及 Call for SIGBED CHINA Special Track（第二个word文件）
+
+-删除PAPER SUBMISSION-AIOTSYS SUBMISSION AND PAPER PRESENTATION 页面
+
+
+
+Other than the general tracks, AIoTSys 2023
+hosts two special tracks:
+
+
+CAA special track
+
+
+SIGBED CHINA special track
+
+For papers submitted to these special
+tracks, they will be peer reviewed by the guested PCs and editors. The accepted
+papers, after conference presentation and extension, will be recommended to
+selected journals as fast submission. Please checked the information from CAA
+special track and SIGBED CHINA special track.
+
+
+
+Cal for paper: 2023 AIoTSys SIGBED CHINA Special Track (Artificial intelligent sensing
+with radio, light and acoustic)
+
+**1.
+****Introduction:**
+
+With
+the fast growth of the artificial Internet of Things (AIoT), various ambient
+signals have been established as a powerful medium for ubiquitous sensing,
+which quickly becomes an active cross-disciplinary research area that involves
+wireless communication, signal processing, machine learning, and even hardware
+design. The explosive progress in mobile sensing, especially contactless
+sensing provides another dimension to design and develop solutions and systems
+for many artificial intelligent sensing problems.
+
+This Special CAA Track，sponsored by SIGBED CHINA, aims to collect original and high-quality
+submissions that artificial intelligent sensing with ambient radio, light and acoustic signals to solve problems
+in contactless and non-intrusive sensing models and algorithms, AI-driven
+sensing applications and solutions for all related field. The interested topics
+include but not limited to:
+
+l
+New platforms and hardware designs for sensing systems
+
+l
+Various sensing systems, including camera, WIFI, RFID, radar, acoustic,
+etc.
+
+l
+Device-free and non-intrusive sensing
+
+l
+Mobile crowdsensing and application
+
+l
+Sensing data analysis, process and management
+
+l
+Models for contactless sensing, understanding, and adaptation
+
+l
+AI-enabled sensing algorithms and systems
+
+l
+Intelligent Technologies and Systems for Smart Healthcare
+
+l
+Sensing applications, including vital sign sensing, fall detection,
+gesture recognition, activity sensing and etc.
+
+l
+Systems for location, tracking, context sensing and awareness
+
+l
+Non-traditional topics that bring new perspectives to mobile sensing
+
+**2.
+****Submission information:**
+
+Stage One: AIoTSys Conference
+Submission
+
+   Deadline: June 15, 2023.
+Please submit your short paper (4 pages including all reference) to AIoTSys SIGBED CHINA Special Track
+before the conference deadline. All papers will be peer reviewed by
+guested PCs. The paper must follow the conference submission guideline.
+
+   Notification:  31 August 2023
+
+   Camera ready submission: 21 September 2023
+
+   Stage Two: CCF Transactions on Pervasive Computing and Interaction
+Submission, (optional) FULL paper submission: Accepted high quality papers in
+this track will be invited to[ CCF
+Transactions on Pervasive Computing and Interaction (Special Issue on
+Intelligent Technologies and Systems for Smart Healthcare) ](https://www.mdpi.com/journal/electronics/special_issues/25DIEG6924)as a fast
+submission, candidate authors could prepare your full paper according to the
+Journal Guideline.
+
+   Conference Presentation：2023, Oct 19-22. All
+papers that are accepted at AIoTSys SIGBED CHINA special track must be
+presented at AIoTSys conference. Papers without presentation will not be
+recommended as the Journal’s fast submission.
+
+**3.
+****Guested PCs and special
+editors:**
+
+Fusang Zhang （Institute
+of Software, Chinese Academy of Sciences）
+
+Jia Liu （Nanjing
+University）
+
+En Wang（Jilin
+University）
+
+Lili Chen（Tsinghua
+University）

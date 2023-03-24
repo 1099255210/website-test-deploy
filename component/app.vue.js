@@ -73,6 +73,12 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="callforpapers"> Call for Papers </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforcaaspecialtrack"> Call for CAA Special Track </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforsigbedchinaspecialtrack"> Call for SIGBED CHINA Special Track </router-link>
+              </li>
             </ul>
           </li>
 
@@ -90,9 +96,6 @@ var appframe = {
               </li>
               <li>
                 <router-link class="nav-link dropdown-item" to="paperguidelines"> AIoTSys Paper Guidelines </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="submission"> AIoTSys Submission and Paper Presentations</router-link>
               </li>
             </ul>
           </li>
