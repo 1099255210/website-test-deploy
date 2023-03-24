@@ -50,19 +50,6 @@ var welcomePage = {
       <p class="conf-subtitle">Topics</p>
       <div class="row">
 
-        <p class="main-p">
-          Other than the general tracks, AIoTSys 2023 hosts two special tracks: 
-          <ul>
-            <li>CAA special track </li>
-            <li>SIGBED CHINA special track</li>
-          </ul>
-          For papers submitted to these special tracks, they will be peer 
-          reviewed by the guested PCs and editors. The accepted papers, after 
-          conference presentation and extension, will be recommended to 
-          selected journals as fast submission. Please checked the information 
-          from CAA special track and SIGBED CHINA special track. 
-        </p>
-
         <div class="col-md-8">
           <p class="main-p">
             Topics for submissions include but are not limited to the
@@ -101,6 +88,19 @@ var welcomePage = {
             <li>System-level energy management for AIoT devices</li>
           </ul>
         </div>
+
+        <p class="main-p">
+          Other than the general tracks, AIoTSys 2023 hosts two special tracks: 
+          <ul>
+            <li>CAA special track </li>
+            <li>SIGBED CHINA special track</li>
+          </ul>
+          For papers submitted to these special tracks, they will be peer 
+          reviewed by the guested PCs and editors. The accepted papers, after 
+          conference presentation and extension, will be recommended to 
+          selected journals as fast submission. Please checked the information 
+          from CAA special track and SIGBED CHINA special track. 
+        </p>
       </div>
     </div>
   </section>
