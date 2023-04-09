@@ -236,6 +236,15 @@ var organizingCommittee = {
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/huanzhou.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Huan Zhou</h5>
+            <p class="card-text commitee-text">Northwestern Polytechnical University, China</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
           <img src="./assets/commitee/boyang.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Bo Yang</h5>

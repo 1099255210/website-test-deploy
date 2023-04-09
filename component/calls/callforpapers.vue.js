@@ -60,6 +60,7 @@ var callForPapers = {
 					<p class="committee"><strong>Local & Web Chairs</strong></p>
 					<p class="committee-name">Helei Cui, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Yunji Liang, Northwestern Polytechnical University, China</p>
+					<p class="committee-name">Huan Zhou, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Bo Yang, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Zhuo Sun, Northwestern Polytechnical University, China</p>
 
