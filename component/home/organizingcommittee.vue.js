@@ -186,10 +186,10 @@ var organizingCommittee = {
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
-          <img src="./assets/commitee/yunjiliang.jpg" class="card-img-top crop" alt="...">
+          <img src="./assets/commitee/liangyuxuan.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Yuxuan Liang</h5>
-            <p class="card-text commitee-text">National University of Singapore, Singapore </p>
+            <p class="card-text commitee-text">The Hong Kong University of Science and Technology, China</p>
           </div>
         </div>
       </div>
