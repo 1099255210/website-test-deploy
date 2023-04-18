@@ -444,3 +444,12 @@ Dr. Fangyuan Xing (Southeast University, China)
 Prof. Dr. Victor C. M. Leung (The University of British Columbia, Canada)
 Dr. Lei Yang (University of Nevada, Reno, NV 89557, USA)
 Prof. Dr. Huan Zhou (College of Computer Science and Technology, China)
+
+## 20230418 update
+
+1. 把paper submission 下面Submit an aiotsys conference paper 这个空白页面去掉
+2. 把paper submission 下面 aiotsys paper guidelines这个页面：
+- -这一页的名字改成AIoTSys Paper Submission and Guidelines
+--在Accepted papers and abstracts will be scheduled in lecture and poster sessions. 这句下面，加入新的一段内容：
+All papers are reviewed using a single-blind review process: authors declare their names and affiliations in the manuscript for the reviewers to see, but reviewers do not know each other's identities, nor do the authors receive information about who has reviewed their manuscript.
+-- Contributed Papers 下面，“All submissions will be subjected to double-blind peer reviews”改成“All submissions will be subjected to single-blind peer reviews”

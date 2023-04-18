@@ -3,7 +3,7 @@ var paperGuidelines = {
   <section class="p-5">
     <div class="container">
 
-      <p class="conf-title">Paper Guidelines</p>
+      <p class="conf-title">AIoTSys Paper Submission and Guidelines</p>
       <p class="main-p">
         Prospective authors are invited to submit full-length papers (up
         to 8 pages including references), short papers (up to 4 pages
@@ -15,6 +15,14 @@ var paperGuidelines = {
         presentations will be included in AIoTSys 2023 conference program.
         Accepted papers and abstracts will be scheduled in lecture and
         poster sessions.
+      </p>
+
+      <p class="main-p">
+        All papers are reviewed using a single-blind review process: 
+        authors declare their names and affiliations in the manuscript 
+        for the reviewers to see, but reviewers do not know each other's 
+        identities, nor do the authors receive information about who has 
+        reviewed their manuscript.
       </p>
 
       <p class="conf-subtitle">Contributed Papers</p>
@@ -35,8 +43,8 @@ var paperGuidelines = {
       <p class="main-p">
         The reviewing process of the ICSIP conference aims to provide
         authors with constructive feedback on their papers, even when a
-        submission is rejected. All submissions will be subjected to
-        double-blind peer reviews, who are expert or have been
+        submission is rejected. All submissions will be subjected to 
+        single-blind peer reviews, who are expert or have been
         experiencing in the related field for years. The accepted papers
         must be revised, taking into consideration the referees' comments
         and suggestions, before inclusion in the conference proceedings.

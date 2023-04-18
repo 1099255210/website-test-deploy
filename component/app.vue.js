@@ -92,10 +92,7 @@ var appframe = {
             </button>
             <ul class="dropdown-menu dropdown-menu-dark">
               <li>
-                <router-link class="nav-link dropdown-item" to="submitconferencepaper"> Submit an AIoTSys Conference Paper </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="paperguidelines"> AIoTSys Paper Guidelines </router-link>
+                <router-link class="nav-link dropdown-item" to="paperguidelines"> AIoTSys Paper Submission and Guidelines </router-link>
               </li>
             </ul>
           </li>

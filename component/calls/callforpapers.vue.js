@@ -50,7 +50,7 @@ var callForPapers = {
 					<p class="committee"><strong>Publicity Chairs</strong></p>
 					<p class="committee-name">Wen Sun, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Nan Gao, Tsinghua University, China</p>
-					<p class="committee-name">Yuxuan Liang, National University of Singapore, Singapore</p>
+					<p class="committee-name">Yuxuan Liang, The Hong Kong University of Science and Technology, China</p>
 
 					<p class="committee"><strong>Special Session Chairs</strong></p>
 					<p class="committee-name">Yifang Yin, Institute of Infocomm Research, Singapore</p>
