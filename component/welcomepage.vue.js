@@ -105,6 +105,15 @@ var welcomePage = {
           from CAA special track and SIGBED CHINA special track.
         </p>
       </div>
+
+      <p class="main-p">
+        <p class="redstress">
+          Papers to AIoTSys 2023 can be submitted on Easychair:
+          <a href="https://easychair.org/conferences/?conf=2023aiotsys">
+            https://easychair.org/conferences/?conf=2023aiotsys
+          </a>
+        </p>
+      </p>
     </div>
   </section>
 

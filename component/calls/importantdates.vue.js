@@ -1,16 +1,7 @@
 var importantDates = {
   template: `
   <section class="p-5">
-    <div class="container">
-      <p class="main-p">
-        <p class="redstress">
-          Papers to AIoTSys 2023 can be submitted on Easychair:
-          <a href="https://easychair.org/conferences/?conf=2023aiotsys">
-            https://easychair.org/conferences/?conf=2023aiotsys
-          </a>
-        </p>
-      </p>
-      
+    <div class="container">      
       <p class="conf-title">Important Dates</p>
       <div class="row">
         <div class="col-md-6">
