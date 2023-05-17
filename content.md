@@ -453,3 +453,12 @@ Prof. Dr. Huan Zhou (College of Computer Science and Technology, China)
 --在Accepted papers and abstracts will be scheduled in lecture and poster sessions. 这句下面，加入新的一段内容：
 All papers are reviewed using a single-blind review process: authors declare their names and affiliations in the manuscript for the reviewers to see, but reviewers do not know each other's identities, nor do the authors receive information about who has reviewed their manuscript.
 -- Contributed Papers 下面，“All submissions will be subjected to double-blind peer reviews”改成“All submissions will be subjected to single-blind peer reviews”
+
+## 20230517 update
+
+1.请把下面文字，使用高亮颜色，添加到Important Dates上面：
+
+Papers to AIoTSys 2023 can be submitted on Easychair: 
+https://easychair.org/conferences/?conf=2023aiotsys
+
+2. sponsor里面，加入西北工业大学科学技术研究院（https://kyy.nwpu.edu.cn/）、西北工业大学科学技术协会（https://www.scimall.org.cn/org/orgSample?id=17709&menu_id=2445）的标志。请从两个主页里提取一下图片信息。

@@ -168,6 +168,14 @@ var welcomePage = {
           <img src="./assets/sigbedchina.png" class="img-fluid" alt="...">
         </div>
       </div>
+      <div class="row" style="align-items: center;">
+        <div class="col-md-6">
+          <img src="./assets/keyanyuan.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-6">
+          <img src="./assets/kexie.png" class="img-fluid" alt="...">
+        </div>
+      </div>
     </div>
   </section>
   `
