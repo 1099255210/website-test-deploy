@@ -79,6 +79,15 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="callforsigbedchinaspecialtrack"> Call for SIGBED CHINA Special Track </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforaiiot"> Call for AIIOT Special Track </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforubicom"> Call for CCF Ubiquitous Computing Special Track </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforiscc"> Call for ISCC Special Track </router-link>
+              </li>
             </ul>
           </li>
 

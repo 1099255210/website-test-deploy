@@ -22,7 +22,7 @@ var callForSigbedChinaSpecialTrack = {
       </p>
 
       <p class="main-p">
-        This Special CAA Track，sponsored by SIGBED CHINA, aims to collect original 
+        This Special CAA Track, sponsored by SIGBED CHINA, aims to collect original 
         and high-quality submissions that artificial intelligent sensing with 
         ambient radio, light and acoustic signals to solve problems in contactless 
         and non-intrusive sensing models and algorithms, AI-driven sensing 
@@ -73,9 +73,9 @@ var callForSigbedChinaSpecialTrack = {
           Pervasive Computing and Interaction (Special Issue on Intelligent Technologies and Systems for Smart Healthcare) 
           as a fast submission, candidate authors could prepare your full paper according to the Journal Guideline.</li>
           
-          <li>Conference Presentation：2023, Oct 19-22. All papers that are accepted at AIoTSys SIGBED CHINA 
+          <li>Conference Presentation:2023, Oct 19-22. All papers that are accepted at AIoTSys SIGBED CHINA 
           special track must be presented at AIoTSys conference. Papers without presentation will not be 
-          recommended as the Journal’s fast submission. </li>
+          recommended as the Journal's fast submission. </li>
         </ul>
       </p>
 
