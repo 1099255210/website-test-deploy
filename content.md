@@ -564,3 +564,8 @@ Extended deadline: 30 Jan. 2024.
 Bo Yang (Northwestern Polytechnical University)
 Zhuo Sun (Northwestern Polytechnical University)
 
+把这段文字改成，
+
+Please check the detailed information on the special track webpages. 
+
+High quality accepted conference papers (both general and special tracks), after revised and extended, will be recommended to multiple SCI Indexed  journals as fast submissions.

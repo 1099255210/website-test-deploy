@@ -101,11 +101,14 @@ var welcomePage = {
             <li><a href="index.html#/callforubicom">CCF Ubiquitous Computing special track</a></li>
             <li><a href="index.html#/callforiscc">ISCC special track</a></li>
           </ul>
-          For papers submitted to these special tracks, they will be peer 
-          reviewed by the guested PCs and editors. The accepted papers, after 
-          conference presentation and extension, will be recommended to 
-          selected journals as fast submission. Please check the information 
-          from CAA special track and SIGBED CHINA special track.
+        </p>
+        <p class="main-p">
+          Please check the detailed information on the special track webpages. 
+        </p>
+        <p class="main-p">
+          High quality accepted conference papers (both general and special tracks), 
+          after revised and extended, will be recommended to multiple SCI Indexed 
+          journals as fast submissions.
         </p>
       </div>
 
