@@ -90,13 +90,16 @@ var welcomePage = {
         </div>
 
         <p class="main-p">
-          <strong>Other than the general tracks</strong>, AIoTSys 2023 hosts two special tracks: 
+          <strong>Other than the general tracks</strong>, AIoTSys 2023 hosts five special tracks: 
         </p>
         
         <p class="main-p">
           <ul>
             <li><a href="index.html#/callforcaaspecialtrack">CAA special track</a></li>
             <li><a href="index.html#/callforsigbedchinaspecialtrack">SIGBED CHINA special track</a></li>
+            <li><a href="index.html#/callforaiiot">AIIOT special track</a></li>
+            <li><a href="index.html#/callforubicom">CCF Ubiquitous Computing special track</a></li>
+            <li><a href="index.html#/callforiscc">ISCC special track</a></li>
           </ul>
           For papers submitted to these special tracks, they will be peer 
           reviewed by the guested PCs and editors. The accepted papers, after 
