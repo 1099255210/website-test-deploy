@@ -88,6 +88,9 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="callforiscc"> Call for ISCC Special Track </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="callforaiec"> Call for CFP AIEC Track </router-link>
+              </li>
             </ul>
           </li>
 

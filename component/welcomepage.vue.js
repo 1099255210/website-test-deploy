@@ -90,7 +90,7 @@ var welcomePage = {
         </div>
 
         <p class="main-p">
-          <strong>Other than the general tracks</strong>, AIoTSys 2023 hosts five special tracks: 
+          <strong>Other than the general tracks</strong>, AIoTSys 2023 hosts six special tracks: 
         </p>
         
         <p class="main-p">
@@ -100,6 +100,7 @@ var welcomePage = {
             <li><a href="index.html#/callforaiiot">AIIOT special track</a></li>
             <li><a href="index.html#/callforubicom">CCF Ubiquitous Computing special track</a></li>
             <li><a href="index.html#/callforiscc">ISCC special track</a></li>
+            <li><a href="index.html#/callforaiec">CFP AIEC special track</a></li>
           </ul>
         </p>
         <p class="main-p">
