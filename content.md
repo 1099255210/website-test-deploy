@@ -270,14 +270,11 @@ conference resources, such as a remote presentation or pre-recorded video.
 
 ## 20230324 更新
 
-
 -在主页topics下面加入一段说明 （第一个word文件）
 -去除sigbed的logo
 -加入两个新的页面（Calls下面）： Call for CAA Special Track （先保持空白）以及 Call for SIGBED CHINA Special Track（第二个word文件）
 
 -删除PAPER SUBMISSION-AIOTSYS SUBMISSION AND PAPER PRESENTATION 页面
-
-
 
 Other than the general tracks, AIoTSys 2023
 hosts two special tracks:
@@ -293,8 +290,6 @@ tracks, they will be peer reviewed by the guested PCs and editors. The accepted
 papers, after conference presentation and extension, will be recommended to
 selected journals as fast submission. Please checked the information from CAA
 special track and SIGBED CHINA special track.
-
-
 
 Cal for paper: 2023 AIoTSys SIGBED CHINA Special Track (Artificial intelligent sensing
 with radio, light and acoustic)
@@ -396,69 +391,68 @@ University）
 Lili Chen（Tsinghua
 University）
 
-
 ## 20230409 更新
 
 更新1Call for CAA Special Track 页面加入（见word）
 更新2local chair 加入西工大Huan Zhou（见图片）
 
-Call for Paper: 2023 AIoTSys CAA Special Track 
+Call for Paper: 2023 AIoTSys CAA Special Track
 
-1.	Introduction:
+1. Introduction:
 
-Artificial Intelligence of Things (AIoT) is considered a collaborative application of Artificial Intelligence (AI) and the Internet of Things (IoT). With the fast growth of Internet of Things (IoT), vehicular networks, and the advent of 5G/6G, there are more rigorous performance requirements (e.g., ultra-low latency and ultra-high reliability) for advanced communication and networking techniques that enable the emerging high mobility applications. 
+Artificial Intelligence of Things (AIoT) is considered a collaborative application of Artificial Intelligence (AI) and the Internet of Things (IoT). With the fast growth of Internet of Things (IoT), vehicular networks, and the advent of 5G/6G, there are more rigorous performance requirements (e.g., ultra-low latency and ultra-high reliability) for advanced communication and networking techniques that enable the emerging high mobility applications.
 
-Future AIoT systems will provide intelligent wireless connections with a high data rate for anyone at anytime and anywhere with the aid of AI, for example when traveling in high-speed trains and highway vehicles. These high mobility scenarios result in rapidly time-varying channels, which pose urgent demands for AI-empowered large-scale communications as well as significant challenges for the design of communication and networking models and technologies for AIoT. 
+Future AIoT systems will provide intelligent wireless connections with a high data rate for anyone at anytime and anywhere with the aid of AI, for example when traveling in high-speed trains and highway vehicles. These high mobility scenarios result in rapidly time-varying channels, which pose urgent demands for AI-empowered large-scale communications as well as significant challenges for the design of communication and networking models and technologies for AIoT.
 
-This Special CAA Track, sponsored by CCF-CAA, aims to collect original and high-quality submissions that target the relevant theoretical aspects and practical design of advanced communication and networking techniques for high mobility networks. The topics of interest include but are not limited to: 
+This Special CAA Track, sponsored by CCF-CAA, aims to collect original and high-quality submissions that target the relevant theoretical aspects and practical design of advanced communication and networking techniques for high mobility networks. The topics of interest include but are not limited to:
 
 	Rapidly time-varying channel modeling, estimation, and equalization
 	Machine learning-based big data analytics for AIoT systems
-	Security and privacy in AIoT systems 
+	Security and privacy in AIoT systems
 	Doppler shift estimation and compensation
 	Efficient modulation and detection techniques for highly mobile environments
 	Highly dynamic radio resource optimization
 	Multiple access schemes for AIoT
-	Ultra-high reliability routing protocols 
+	Ultra-high reliability routing protocols
 	Relay, distributive multi-antenna, and cooperative techniques
 	Communication and networking for highly mobile underwater IoT
-	Next generation techniques for highly mobile optical wireless communications 
+	Next generation techniques for highly mobile optical wireless communications
 
 Keywords:
 Artificial Intelligence, IoT, Communication and Networking
 
+2. Submission information:
 
-2.	Submission information:
-1)	Stage One: AIoTSys Conference Submission 
-	Deadline: June 15, 2023.  Please submit your short paper (4 pages including all reference) to AIoTSys CAA Special Track before the conference deadline. All papers will be peer reviewed by guested PCs. The paper must follow the AIoTSys paper submission guideline.
-	Notification:  31 August 2023
-	Camera ready submission: 21 September 2023
+1) Stage One: AIoTSys Conference Submission
+   	Deadline: June 15, 2023.  Please submit your short paper (4 pages including all reference) to AIoTSys CAA Special Track before the conference deadline. All papers will be peer reviewed by guested PCs. The paper must follow the AIoTSys paper submission guideline.
+   	Notification:  31 August 2023
+   	Camera ready submission: 21 September 2023
+2) Stage Two:  MDPI electronics Journal Submission, Impact Factor 2.690
+   	(optional) FULL paper submission:  Accepted papers in AIoTSys CAA Special Track will be invited to MDPI Electronics Journal as a fast submission, candidate authors could prepare and submit your full paper according to the journal guideline.
+   	Conference Presentation：2023, Oct 19-22. All papers that are accepted at AIoTSys CAA track must be presented at AIoTSys conference. Papers without presentation will not be recommended as journal’s fast submission.
 
-2)	Stage Two:  MDPI electronics Journal Submission, Impact Factor 2.690
-	(optional) FULL paper submission:  Accepted papers in AIoTSys CAA Special Track will be invited to MDPI Electronics Journal as a fast submission, candidate authors could prepare and submit your full paper according to the journal guideline. 
-	Conference Presentation：2023, Oct 19-22. All papers that are accepted at AIoTSys CAA track must be presented at AIoTSys conference. Papers without presentation will not be recommended as journal’s fast submission. 
-
-3.	Guested PCs and Special Editors:
-Prof. Dr. Shibo He (Zhejiang University, China)
-Dr. Fangyuan Xing (Southeast University, China)
-Prof. Dr. Victor C. M. Leung (The University of British Columbia, Canada)
-Dr. Lei Yang (University of Nevada, Reno, NV 89557, USA)
-Prof. Dr. Huan Zhou (College of Computer Science and Technology, China)
+3. Guested PCs and Special Editors:
+   Prof. Dr. Shibo He (Zhejiang University, China)
+   Dr. Fangyuan Xing (Southeast University, China)
+   Prof. Dr. Victor C. M. Leung (The University of British Columbia, Canada)
+   Dr. Lei Yang (University of Nevada, Reno, NV 89557, USA)
+   Prof. Dr. Huan Zhou (College of Computer Science and Technology, China)
 
 ## 20230418 update
 
 1. 把paper submission 下面Submit an aiotsys conference paper 这个空白页面去掉
 2. 把paper submission 下面 aiotsys paper guidelines这个页面：
+
 - -这一页的名字改成AIoTSys Paper Submission and Guidelines
---在Accepted papers and abstracts will be scheduled in lecture and poster sessions. 这句下面，加入新的一段内容：
-All papers are reviewed using a single-blind review process: authors declare their names and affiliations in the manuscript for the reviewers to see, but reviewers do not know each other's identities, nor do the authors receive information about who has reviewed their manuscript.
--- Contributed Papers 下面，“All submissions will be subjected to double-blind peer reviews”改成“All submissions will be subjected to single-blind peer reviews”
+  --在Accepted papers and abstracts will be scheduled in lecture and poster sessions. 这句下面，加入新的一段内容：
+  All papers are reviewed using a single-blind review process: authors declare their names and affiliations in the manuscript for the reviewers to see, but reviewers do not know each other's identities, nor do the authors receive information about who has reviewed their manuscript.
+  -- Contributed Papers 下面，“All submissions will be subjected to double-blind peer reviews”改成“All submissions will be subjected to single-blind peer reviews”
 
 ## 20230517 update
 
 1.请把下面文字，使用高亮颜色，添加到Important Dates上面：
 
-Papers to AIoTSys 2023 can be submitted on Easychair: 
+Papers to AIoTSys 2023 can be submitted on Easychair:
 https://easychair.org/conferences/?conf=2023aiotsys
 
 2. sponsor里面，加入西北工业大学科学技术研究院（https://kyy.nwpu.edu.cn/）、西北工业大学科学技术协会（https://www.scimall.org.cn/org/orgSample?id=17709&menu_id=2445）的标志。请从两个主页里提取一下图片信息。
@@ -469,8 +463,8 @@ https://easychair.org/conferences/?conf=2023aiotsys
 
 Title: Artificial intelligence for the Industrial Internet of Things (AIIoT)
 
-1.	Introduction 
-Artificial intelligence (AI) is a key component in the Industrial Internet of Things (IIoT) ecosystem, which is a network of physical devices, machines, and software applications that communicate and exchange data in order to optimize industrial processes. With the help of AI, IIoT systems can extract valuable insights from large volumes of data generated by sensors, machines, and other connected devices, and use that information to optimize processes, improve efficiency, and reduce costs. AI technologies such as machine learning, computer vision, and natural language processing are being used to enable predictive maintenance, quality control, supply chain management, and other industrial applications. As the IIoT continues to evolve, AI is expected to play an increasingly important role in driving innovation and transforming the way in which businesses operate.
+1. Introduction
+   Artificial intelligence (AI) is a key component in the Industrial Internet of Things (IIoT) ecosystem, which is a network of physical devices, machines, and software applications that communicate and exchange data in order to optimize industrial processes. With the help of AI, IIoT systems can extract valuable insights from large volumes of data generated by sensors, machines, and other connected devices, and use that information to optimize processes, improve efficiency, and reduce costs. AI technologies such as machine learning, computer vision, and natural language processing are being used to enable predictive maintenance, quality control, supply chain management, and other industrial applications. As the IIoT continues to evolve, AI is expected to play an increasingly important role in driving innovation and transforming the way in which businesses operate.
 
 This Special Track aims to collect original and high-quality submissions related to AI in Industrial Internet of Things. The topics relevant to this special issue include but are not limited to
 
@@ -485,87 +479,114 @@ This Special Track aims to collect original and high-quality submissions related
 •	Social implications for IoT intelligent
 •	Resilient and secure IoT with real-world solutions
 
-2.	Submission Information
-Please follow the same submission guideline as for the general tracks.
-
-3.	Guested editors:
-Helei Cui (Northwestern Polytechnical University)
-Xing Huang (Northwestern Polytechnical University)
-Xiaoning (Maggie) Liu (RMIT University)
+2. Submission Information
+   Please follow the same submission guideline as for the general tracks.
+3. Guested editors:
+   Helei Cui (Northwestern Polytechnical University)
+   Xing Huang (Northwestern Polytechnical University)
+   Xiaoning (Maggie) Liu (RMIT University)
 
 ### CFP-CCF-UbiComp-Track
 
 CCF Ubiquitous Computing Special Track
 
 1. Introduction:
-Due to improvements in their CPU/GPU capabilities, intelligent mobile devices can now undertake more computing tasks. This computational mechanism is called pervasive and mobile computing. The proliferation of pervasive and mobile computing in intelligent mobile devices is now regarded as an effective mechanism able to assist or change human life. Ubiquitous computing through the design and deployment of various pervasive and mobile computing systems is able to sufficiently perceive various states of humans and things, such as human activities, decision assistance, and health care. It utilizes the computation power of intelligent mobile devices to improve the quality of people's work and life, proving its potential for pervasive and mobile computing. Ideally, computing services will be efficient, reliable, and ubiquitous. However, in reality, the implementation of adaptive and reliable mobile computing systems is still challenging. Maintaining robustness under dynamic network conditions, adapting to dynamic and limited resource constraints, rational energy schedules, protecting data privacy, etc., are still open problems. This Special Issue provides an opportunity for researchers and system developers to address research challenges facing the design, development, deployment, use, and fundamental limits of pervasive and mobile computing systems. We submissions from various fields related to pervasive and mobile computing, wireless communication and networking, embedded systems and hardware, learning algorithms and models, distributed systems and algorithms, data management, and real-world measurement and deployment for mobile systems and applications. Papers on theoretical, practical, and methodological issues in pervasive and mobile computing are welcome. Potential topics include, but are not limited to:
-•	Applications of machine learning to mobile/wireless research;
-•	Mobile health;
-•	Edge computing and resource scheduling based on artificial intelligence algorithms;
-•	Security and privacy of embedded intelligent systems;
-•	Ubiquitous computing and mobile human–computer interaction;
-•	Mobile web, video, virtual reality, and other applications;
-•	System smart spaces (e.g., smart factories, smart workspace, smart agriculture);
-•	Robotic and drone-based networking;
-•	Implanted and wearable computing;
-•	Embedded intelligent operating systems and operating environments;
-•	Embedded intelligence based on sensors, UAVs, and robots;
-•	Intelligent algorithms for the Internet of Things and the physical space of information;
-•	Modeling, simulation, and evaluation tools for embedded intelligent applications;
-•	Experiences, challenges, and comparisons of embedded intelligence platforms;
-•	Data sharing and management based on embedded intelligent algorithms;
-•	New communication paradigms for ubiquitous connectivity;
-•	Low-power wireless media access control, network, and transport protocol designs;
-•	Resource-efficient machine learning for embedded and mobile platforms;
-•	Heterogeneous collaborative sensing, including human–robot sensor systems;
-•	Fault tolerance, dependability, and verification;
-•	Applications and deployment experiences;
-•	Applications of embedded intelligence in health, transportation, smart city, intelligent manufacturing, and other fields;
-•	Security and privacy of embedded intelligent systems;
-•	Embedded intelligent application networks, system architecture, and protocol;
-•	Modeling, simulation, and evaluation tools for embedded smart applications.
+   Due to improvements in their CPU/GPU capabilities, intelligent mobile devices can now undertake more computing tasks. This computational mechanism is called pervasive and mobile computing. The proliferation of pervasive and mobile computing in intelligent mobile devices is now regarded as an effective mechanism able to assist or change human life. Ubiquitous computing through the design and deployment of various pervasive and mobile computing systems is able to sufficiently perceive various states of humans and things, such as human activities, decision assistance, and health care. It utilizes the computation power of intelligent mobile devices to improve the quality of people's work and life, proving its potential for pervasive and mobile computing. Ideally, computing services will be efficient, reliable, and ubiquitous. However, in reality, the implementation of adaptive and reliable mobile computing systems is still challenging. Maintaining robustness under dynamic network conditions, adapting to dynamic and limited resource constraints, rational energy schedules, protecting data privacy, etc., are still open problems. This Special Issue provides an opportunity for researchers and system developers to address research challenges facing the design, development, deployment, use, and fundamental limits of pervasive and mobile computing systems. We submissions from various fields related to pervasive and mobile computing, wireless communication and networking, embedded systems and hardware, learning algorithms and models, distributed systems and algorithms, data management, and real-world measurement and deployment for mobile systems and applications. Papers on theoretical, practical, and methodological issues in pervasive and mobile computing are welcome. Potential topics include, but are not limited to:
+   •	Applications of machine learning to mobile/wireless research;
+   •	Mobile health;
+   •	Edge computing and resource scheduling based on artificial intelligence algorithms;
+   •	Security and privacy of embedded intelligent systems;
+   •	Ubiquitous computing and mobile human–computer interaction;
+   •	Mobile web, video, virtual reality, and other applications;
+   •	System smart spaces (e.g., smart factories, smart workspace, smart agriculture);
+   •	Robotic and drone-based networking;
+   •	Implanted and wearable computing;
+   •	Embedded intelligent operating systems and operating environments;
+   •	Embedded intelligence based on sensors, UAVs, and robots;
+   •	Intelligent algorithms for the Internet of Things and the physical space of information;
+   •	Modeling, simulation, and evaluation tools for embedded intelligent applications;
+   •	Experiences, challenges, and comparisons of embedded intelligence platforms;
+   •	Data sharing and management based on embedded intelligent algorithms;
+   •	New communication paradigms for ubiquitous connectivity;
+   •	Low-power wireless media access control, network, and transport protocol designs;
+   •	Resource-efficient machine learning for embedded and mobile platforms;
+   •	Heterogeneous collaborative sensing, including human–robot sensor systems;
+   •	Fault tolerance, dependability, and verification;
+   •	Applications and deployment experiences;
+   •	Applications of embedded intelligence in health, transportation, smart city, intelligent manufacturing, and other fields;
+   •	Security and privacy of embedded intelligent systems;
+   •	Embedded intelligent application networks, system architecture, and protocol;
+   •	Modeling, simulation, and evaluation tools for embedded smart applications.
 2. Submission information:
-Stage One: AIoTSys Conference Submission
-•	Deadline: June 15, 2023. Please submit your short paper (4 pages including all reference) to AIoTSys SIGBED CHINA Special Track before the conference deadline. All papers will be peer reviewed by guested PCs. The paper must follow the conference submission guideline. 
-•	Notification: 31 August 2023
-•	Camera ready submission: 21 September 2023
-Stage Two: Applied Sciences (Special Issue on New Insights into Pervasive and Mobile Computing) Submission. (optional)
-•	FULL paper submission: Accepted high quality papers in this track will be invited to Applied Sciences (Special Issue on New Insights into Pervasive and Mobile Computing https://www.mdpi.com/journal/applsci/special_issues/OTU70W6JID) as a fast submission, candidate authors could prepare your full paper according to the Journal Guideline.
-•	Conference Presentation：2023, Oct 19-22. All papers that are accepted at AIoTSys CCF ubiquitous computing special track must be presented at AIoTSys conference. Papers without presentation will not be recommended as the Journal’s fast submission.
+   Stage One: AIoTSys Conference Submission
+   •	Deadline: June 15, 2023. Please submit your short paper (4 pages including all reference) to AIoTSys SIGBED CHINA Special Track before the conference deadline. All papers will be peer reviewed by guested PCs. The paper must follow the conference submission guideline.
+   •	Notification: 31 August 2023
+   •	Camera ready submission: 21 September 2023
+   Stage Two: Applied Sciences (Special Issue on New Insights into Pervasive and Mobile Computing) Submission. (optional)
+   •	FULL paper submission: Accepted high quality papers in this track will be invited to Applied Sciences (Special Issue on New Insights into Pervasive and Mobile Computing https://www.mdpi.com/journal/applsci/special_issues/OTU70W6JID) as a fast submission, candidate authors could prepare your full paper according to the Journal Guideline.
+   •	Conference Presentation：2023, Oct 19-22. All papers that are accepted at AIoTSys CCF ubiquitous computing special track must be presented at AIoTSys conference. Papers without presentation will not be recommended as the Journal’s fast submission.
 3. Guested PCs and special editors:
-•	Lei Xie (Nanjing University)
-•	Sicong Liu (Northwestern Polytechnical University)
+   •	Lei Xie (Nanjing University)
+   •	Sicong Liu (Northwestern Polytechnical University)
 
 ### CFP-ISCC-Track
 
 Title: Integrated Sensing, Communication, and Computation (ISCC) for AIoT: Technologies, Emerging Trends and Challenges
 
 1. Introduction
-The Internet of Things (IoT) has the potential to play a significant role in creating a more sustainable and green future. With the rapid development of Artificial Intelligence (AI) technology, AIoT (Artificial Intelligence of Things) has recently become a hot topic that combines two of the hottest acronyms. Empowered by AI, IoT enables a variety of intelligent services across a myriad of fields for smart cities and industries including manufacturing and agriculture, by performing integrated sensing, communication, and computation (ISCC). In this context, to keep pace with the explosive growth of AIoT traffic, wireless systems must support ultra-high bandwidth, low latency, reliable connections, and flexible resource allocation. Despite a great amount of effort made regarding applying AI to IoT, AIoT still faces technical challenges while designing and deploying ISCC techniques in practice. For instance, complexity, efficiency, scalability, accuracy, and robustness related to the increasing modern AIoT systems and applications. This Special Track is aimed at collecting original and innovative research works that focus on challenging issues in the field of ISCC technologies and applications in AIoT. 
+   The Internet of Things (IoT) has the potential to play a significant role in creating a more sustainable and green future. With the rapid development of Artificial Intelligence (AI) technology, AIoT (Artificial Intelligence of Things) has recently become a hot topic that combines two of the hottest acronyms. Empowered by AI, IoT enables a variety of intelligent services across a myriad of fields for smart cities and industries including manufacturing and agriculture, by performing integrated sensing, communication, and computation (ISCC). In this context, to keep pace with the explosive growth of AIoT traffic, wireless systems must support ultra-high bandwidth, low latency, reliable connections, and flexible resource allocation. Despite a great amount of effort made regarding applying AI to IoT, AIoT still faces technical challenges while designing and deploying ISCC techniques in practice. For instance, complexity, efficiency, scalability, accuracy, and robustness related to the increasing modern AIoT systems and applications. This Special Track is aimed at collecting original and innovative research works that focus on challenging issues in the field of ISCC technologies and applications in AIoT.
 
 The interested topics include but not limited to:
 	Integrated sensing, communication, and computing technologies for AIoT
-	Recent trends, challenges and emerging applications in ISCC for AIoT 
+	Recent trends, challenges and emerging applications in ISCC for AIoT
 	Resources management and scheduling algorithms for AIoT system
 	Advanced machine learning algorithms design for AIoT
-	Reconfigurable intelligent surface (RIS)/IRS design and optimization targeting at AIoT 
+	Reconfigurable intelligent surface (RIS)/IRS design and optimization targeting at AIoT
 	Energy harvesting and power management for AIoT devices
 	Intelligent edge computing/edge intelligence for AIoT
-	Hardware designs and circuits of AIoT devices 
+	Hardware designs and circuits of AIoT devices
 	Security, privacy, and reliability in AIoT system
+
+2. Submission information
+   Please follow the same submission guideline as for the general tracks. High quality accepted paper will be recommended to potential publications:
+   (1) MDPI Applied Sciences (IF:2.838): Future Trends in Intelligent Edge Computing and Networking.
+   Extended deadline: 30 Jan. 2024.
+   (2) A special issue at Springer-Nature Computer Science (SNCS). Detailed information will be posted soon.
+3. Track chairs
+   Bo Yang (Northwestern Polytechnical University)
+   Zhuo Sun (Northwestern Polytechnical University)
+
+把这段文字改成，
+
+Please check the detailed information on the special track webpages.
+
+High quality accepted conference papers (both general and special tracks), after revised and extended, will be recommended to multiple SCI Indexed  journals as fast submissions.
+
+## 20230609 update
+
+Title：Artificial Intelligence and Edge Computing (AIEC) for IoT
+Summary：
+Recently, the combination of AI and edge computing for IoT has aroused a research upsurge, which helps to achieve efficient computing and intelligent decision-making to ensure the QoS requirements of IoT devices. By deploying intelligence-empowered edge servers, inference computing of IoT devices can be achieved with higher accuracy and lower latency. However, integrating AI with edge computing in the IoT system still raises several major challenges in various aspects of algorithm design, resource allocation, security, privacy, incentive mechanism, etc. This Special Track aims to exploit AI and edge computing-empowered IoT from several perspectives, ranging from its recent advances to intelligent communication/networking technologies. This Special Track will bring together leading researchers from both the industry and academia and solicit their original research and practical contributions on novel architectures, applications, and technologies of AI and edge computing-empowered IoT. We encourage prospective authors to submit related distinguished research papers on the subject of both: theoretical approaches and practical case reviews. 
+
+The interested topics include but not limited to:
+	Architectures, applications and services in AIEC for IoT
+	Dynamic resources allocation and management in AIEC for IoT
+	Resource pricing, economic models and incentive mechanisms in AIEC for IoT
+	Wireless resource virtualization in in AIEC for IoT
+	Sustainable and green edge computing for IoT
+	Mobile big data and social-aware edge computing for IoT
+	Artificial intelligence and machine learning for IoT 
+	Simulation tools and testbeds in AIEC for IoT
+	Security, privacy and trust in AIEC for IoT
 
 2. Submission information
 Please follow the same submission guideline as for the general tracks. High quality accepted paper will be recommended to potential publications:
 (1) MDPI Applied Sciences (IF:2.838): Future Trends in Intelligent Edge Computing and Networking.
 Extended deadline: 30 Jan. 2024.
-(2) A special issue at Springer-Nature Computer Science (SNCS). Detailed information will be posted soon.
+(2) A special issue at Sensors. Detailed information will be posted soon.
 
 3. Track chairs
-Bo Yang (Northwestern Polytechnical University)
-Zhuo Sun (Northwestern Polytechnical University)
+Huan Zhou (Northwestern Polytechnical University)
+Liang Zhao (China Three Gorges University)
 
-把这段文字改成，
 
-Please check the detailed information on the special track webpages. 
-
-High quality accepted conference papers (both general and special tracks), after revised and extended, will be recommended to multiple SCI Indexed  journals as fast submissions.

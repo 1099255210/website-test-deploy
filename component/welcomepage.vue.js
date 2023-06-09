@@ -100,7 +100,7 @@ var welcomePage = {
             <li><a href="index.html#/callforaiiot">AIIOT special track</a></li>
             <li><a href="index.html#/callforubicom">CCF Ubiquitous Computing special track</a></li>
             <li><a href="index.html#/callforiscc">ISCC special track</a></li>
-            <li><a href="index.html#/callforaiec">CFP AIEC special track</a></li>
+            <li><a href="index.html#/callforaiec">AIEC special track</a></li>
           </ul>
         </p>
         <p class="main-p">
