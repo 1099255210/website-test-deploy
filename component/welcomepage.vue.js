@@ -132,7 +132,7 @@ var welcomePage = {
 
           <div class="d-flex justify-content-between">
             <p>Paper Submissions Deadline</p>
-            <p>15 June 2023</p>
+            <p><s style="color: red">15 June 2023</s> &nbsp; 5 July 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Notification</p>
