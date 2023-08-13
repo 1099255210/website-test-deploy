@@ -258,6 +258,13 @@ var organizingCommittee = {
             <p class="card-text commitee-text">Northwestern Polytechnical University, China</p>
           </div>
         </div>
+        <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
+          <img src="./assets/commitee/xudongyang.jpg" class="card-img-top crop" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Xudong Yang</h5>
+            <p class="card-text commitee-text">Northwestern Polytechnical University, China</p>
+          </div>
+        </div>
       </div>
 
     </div>
