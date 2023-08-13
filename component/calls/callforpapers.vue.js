@@ -63,7 +63,7 @@ var callForPapers = {
 					<p class="committee-name">Huan Zhou, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Bo Yang, Northwestern Polytechnical University, China</p>
 					<p class="committee-name">Zhuo Sun, Northwestern Polytechnical University, China</p>
-					<p class="committee-name">Xudong Yang, Northwestern Polytechnical University, China</p>
+					<p class="committee-name">Xudong Yang, Xi'an Polytechnic University, China</p>
 
 				</div>
 				<div class="col-md-6">
