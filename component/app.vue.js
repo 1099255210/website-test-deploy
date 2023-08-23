@@ -106,7 +106,14 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="paperguidelines"> AIoTSys Paper Submission and Guidelines </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="camerareadyinstructions"> Camera Ready Instructions </router-link>
+              </li>
             </ul>
+          </li>
+
+          <li class="nav-item">
+            <router-link class="nav-link active" to="Registration"> Registration </router-link>
           </li>
 
           <li class="nav-item">
