@@ -2,7 +2,7 @@ var testPreviewZh = {
 	template: `
   <section class="p-5">
     <div class="container">
-      <p><a href="index.html#/testpreview">English</a>/中文</p>
+      <p><strong><a href="index.html#/testpreview">English</a>/中文</strong></p>
       <p class="conf-title">关于AIoTSys青年科学家奖</p>
 
       <div class="row">
@@ -15,7 +15,7 @@ var testPreviewZh = {
           
     
           <p class="main-p">
-          AIoTSys青年科学家奖参选人须为 35 岁（女性38岁）华人AIoT技术人才，评选标准包括但不限于：
+          AIoTSys青年科学家奖参选人须为35岁以下（女性38岁）华人AIoT技术人才，评选标准包括但不限于：
             <ul>
               <li>代表性论文（不超过5篇）</li>
               <li>主持以及参与项目情况 </li>
@@ -42,6 +42,7 @@ var testPreviewZh = {
             <p>刘劼，哈尔滨工业大学（深圳） </p>
             <p>张燕咏，中国科学技术大学</p>
             <p>郭斌，西北工业大学</p>
+            <p>陈怡然，杜克大学</p>
 
             <p><strong>评选委员会联系人： </strong></p>
             <a href="mailto:guob@nwpu.edu.cn">Guo Bin, guob@nwpu.edu.cn</a> 

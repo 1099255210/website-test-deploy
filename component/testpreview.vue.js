@@ -2,23 +2,22 @@ var testPreview = {
 	template: `
   <section class="p-5">
     <div class="container">
-      <p>English/<a href="index.html#/testpreviewzh">中文</a></p>
-      <p class="conf-title">About AIoTSys Young Scientist Award</p>
+      <p><strong>English/<a href="index.html#/testpreviewzh">中文</a></strong></p>
+      <p class="conf-title">AIoTSys Young Scientist Award</p>
 
       <div class="row">
         <div class="col-md-10">
           <p class="main-p" style="text-align: justify">
-            Initiated by the AIoTSys International Conference, experts from ACM SIGBED CHINA, the Belt and Road International Intelligent Internet of Things Alliance (BRAVE), and the Intelligent Internet of Things Development and Education Innovation Alliance (IDEA) are jointly responsible for the selection, taking into account the purpose of professionalism, authority and talent incentive. This award aims to explore outstanding intelligent iot talents with strong development potential under the age of 35 (female aged 38) from all over the world, with research achievements, academic and technological influence, and community activity as evaluation indicators, 2 winners (1 overseas Chinese, 1 domestic Chinese) will be selected every year, and the results will be announced at the AIoTSys conference that year.
+            Initiated by the AIoTSys International Conference, experts from ACM SIGBED CHINA, the Belt and Road AIot International Cooperative Alliance (BRAVE), and the Intelligent Internet of Things Development and Education Innovation Alliance (IDEA) are jointly responsible for the selection, taking into account the purpose of professionalism, authority and talent incentive. This award aims to explore outstanding intelligent Iot talents with strong development potential under the age of 35 (female aged 38) from all over the world, with research achievements, academic and technological influence, and community activity as key evaluation indicators, 2 winners (1 overseas Chinese, 1 domestic Chinese) will be selected every year, and the results will be announced at the AIoTSys conference that year.
           </p>
 
           <p class="conf-subtitle">Selection Criteria</p>
-          
     
           <p class="main-p">
           Candidates for the AIoTSys Young Scientist Award must be Chinese AIoT technical talent aged 35 years (female 38 years), and the selection criteria include but are not limited to: 
             <ul>
-              <li>Major journal articles; (no more than 5 articlesrs) </li>
-              <li>Project chairmanship and participation</li>
+              <li>Main scientific publication (no more than 5 articlesrs) </li>
+              <li>On-going projects</li>
               <li>Get honors, such as talent programs </li>
               <li>Social work situation </li>
               <li>Two recommended experts</li>
@@ -42,6 +41,7 @@ var testPreview = {
             <p>Liu Jie, Harbin Institute of Technology (Shenzhen) </p>
             <p>Zhang Yanyong, University of Science and Technology of China </p>
             <p>Guo Bin, Northwestern Polytechnical University</p>
+            <p>Chen Yiran, Duke University</p>
 
             <p><strong>Contact person of the Selection Committee: </strong></p>
             <a href="mailto:guob@nwpu.edu.cn">Guo Bin, guob@nwpu.edu.cn</a> 
