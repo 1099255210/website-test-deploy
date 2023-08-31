@@ -1,8 +1,8 @@
-var testPreviewZh = { 
+var youngScientistAwardZh = { 
 	template: `
   <section class="p-5">
     <div class="container">
-      <p><strong><a href="index.html#/testpreview">English</a>/中文</strong></p>
+      <p><strong><a href="index.html#/youngscientistaward">English</a>/中文</strong></p>
       <p class="conf-title">关于AIoTSys青年科学家奖</p>
 
       <div class="row">
@@ -52,7 +52,7 @@ var testPreviewZh = {
 
           <p class="main-p">
           申请人请填写AIoTSys青年科学家申请表
-          <strong><a href="./attachments/AIoTSys Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
+          <strong><a href="./attachments/AIoTSys - Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
           ，并发送申请表与附件至 <a href="mailto:guob@nwpu.edu.cn">guob@nwpu.edu.cn</a> .
           </p>
 

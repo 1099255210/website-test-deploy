@@ -122,7 +122,7 @@ var organizingCommittee = {
       <p class="committee-title"><strong>Industry Chairs</strong></p>
       <div class="row">
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
-          <img src="./assets/commitee/abhirup.jpg" class="card-img-top crop" alt="...">
+          <img src="./assets/commitee/abhirupghosh.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Abhirup Ghosh</h5>
             <p class="card-text commitee-text">University of Cambridge, UK</p>
@@ -136,7 +136,7 @@ var organizingCommittee = {
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
-          <img src="./assets/commitee/xiaohai.jpg" class="card-img-top crop" alt="...">
+          <img src="./assets/commitee/xiaohaitian.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Xiaohai Tian</h5>
             <p class="card-text commitee-text">ByteDance, Singapore</p>
@@ -186,7 +186,7 @@ var organizingCommittee = {
           </div>
         </div>
         <div class="card card-add mx-auto text-center" style="width: 18rem; padding: 0;">
-          <img src="./assets/commitee/liangyuxuan.jpg" class="card-img-top crop" alt="...">
+          <img src="./assets/commitee/yuxuanliang.jpg" class="card-img-top crop" alt="...">
           <div class="card-body">
             <h5 class="card-title">Yuxuan Liang</h5>
             <p class="card-text commitee-text">The Hong Kong University of Science and Technology, China</p>

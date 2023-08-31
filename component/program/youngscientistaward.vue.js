@@ -1,8 +1,8 @@
-var testPreview = { 
+var youngScientistAward = { 
 	template: `
   <section class="p-5">
     <div class="container">
-      <p><strong>English/<a href="index.html#/testpreviewzh">中文</a></strong></p>
+      <p><strong>English/<a href="index.html#/youngscientistawardzh">中文</a></strong></p>
       <p class="conf-title">AIoTSys Young Scientist Award</p>
 
       <div class="row">
@@ -51,7 +51,7 @@ var testPreview = {
 
           <p class="main-p">
           Applicants should complete the AIoTSys Young Scientist Application Form 
-          <strong><a href="./attachments/AIoTSys Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
+          <strong><a href="./attachments/AIoTSys - Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
           and send the application form and attachments to <a href="mailto:guob@nwpu.edu.cn">guob@nwpu.edu.cn</a> .
           </p>
 
