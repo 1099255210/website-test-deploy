@@ -1,6 +1,19 @@
 var welcomePage = { 
 	template: `
+
   <section class="pt-5">
+    <div class="container">
+      <p class="conf-subtitle">News & Updates</p>
+      <p class="main-p"></p>
+      <ul>
+        <li><strong>31/08/2023:</strong> "AIoTSys Young Scientist Award" page is <a href="index.html#/youngscientistaward">announced.</a> </li>
+        <li><strong>26/08/2023:</strong> "Registration" page is <a href="index.html#/registration">announced.</a> </li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+  
     <div class="container">
       <div>
         <!-- <div class="alert alert-primary" role="alert">
@@ -151,16 +164,7 @@ var welcomePage = {
     </div>
   </section>
 
-  <section>
-    <div class="container">
-      <p class="conf-subtitle">News & Updates</p>
-      <p class="main-p"></p>
-      <ul>
-        <li><strong>31/08/2023:</strong> "AIoTSys Young Scientist Award" page is <a href="index.html#/youngscientistaward">announced.</a> </li>
-        <li><strong>26/08/2023:</strong> "Registration" page is <a href="index.html#/registration">announced.</a> </li>
-      </ul>
-    </div>
-  </section>
+
 
   <section class="p-5">
     <div class="container">
