@@ -149,11 +149,11 @@ var welcomePage = {
           </div>
           <div class="d-flex justify-content-between">
             <p>Notification</p>
-            <p>31 August 2023</p>
+            <p>23 August 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Camera Ready Paper Deadline</p>
-            <p>21 September 2023</p>
+            <p>10 September 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Conference Date</p>
@@ -170,14 +170,17 @@ var welcomePage = {
     <div class="container">
       <p class="conf-subtitle">Sponsors</p>
       <div class="row" style="align-items: center;">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <img src="./assets/ieeexian.png" class="img-fluid" alt="...">
         </div>
         <div class="col-md-2">
           <img src="./assets/nwpu-logo.jpg" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
           <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-3">
+          <img src="./assets/ieee hi-tc.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="row" style="align-items: center;">

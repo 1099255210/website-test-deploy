@@ -12,11 +12,11 @@ var importantDates = {
           </div>
           <div class="d-flex justify-content-between">
             <p>Notification</p>
-            <p>31 August 2023</p>
+            <p>23 August 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Camera Ready Paper Deadline</p>
-            <p>21 September 2023</p>
+            <p>10 September 2023</p>
           </div>
           <div class="d-flex justify-content-between">
             <p>Conference Date</p>

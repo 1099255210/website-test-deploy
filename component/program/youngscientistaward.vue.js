@@ -38,11 +38,11 @@ var youngScientistAward = {
           <p class="conf-subtitle">Selection Committee</p>
 
           <p class="main-p">
-            <p>Tsao Kinong, Hong Kong Polytechnic University </p>
-            <p>Liu Jie, Harbin Institute of Technology (Shenzhen) </p>
-            <p>Zhang Yanyong, University of Science and Technology of China </p>
-            <p>Chen Yiran, Duke University</p>
-            <p>Guo Bin, Northwestern Polytechnical University</p>
+            <p>Jiannong Cao, Hong Kong Polytechnic University </p>
+            <p>Yiran Chen, Duke University</p>
+            <p>Jie Liu, Harbin Institute of Technology (Shenzhen) </p>
+            <p>Yanyong Zhang, University of Science and Technology of China </p>
+            <p>Bin Guo, Northwestern Polytechnical University</p>
             <p><strong>Contact person of the Selection Committee: </strong></p>
             <a href="mailto:guob@nwpu.edu.cn">Guo Bin, guob@nwpu.edu.cn</a> 
           </p>
