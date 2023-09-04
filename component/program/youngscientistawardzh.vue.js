@@ -38,11 +38,11 @@ var youngScientistAwardZh = {
           <p class="conf-subtitle">评选委员会</p>
 
           <p class="main-p">
+            <p>周兴社，西北工业大学</p>
             <p>曹建农，香港理工大学</p>
             <p>陈怡然，杜克大学</p>
             <p>刘劼，哈尔滨工业大学（深圳） </p>
             <p>张燕咏，中国科学技术大学</p>
-            <p>郭斌，西北工业大学</p>
 
             <p><strong>评选委员会联系人： </strong></p>
             <a href="mailto:guob@nwpu.edu.cn">Guo Bin, guob@nwpu.edu.cn</a> 
