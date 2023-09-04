@@ -41,6 +41,10 @@ var cameraReadyInstructions = {
           
           <p class="main-p">Camera-ready (final) papers should mandatorily address the reviewers' comments.  The AIoTSys 2023 Program Chairs reserve the right to reject a camera-ready (final) paper if the reviewers' comments are not adequately addressed. The camera-ready paper should also contain all the necessary details regarding the authors and their affiliations.</p>
           
+          <p class="main-p">Submitted camera-ready (final) papers must be new and original. According to the IEEE Rules of Publication Services and Products Board, the critical plagiarism level (including self-plagiarism) for automatic verification by CrossCheck Portal is 20%, and it cannot be higher. Make sure that your paper is substantially different from (your) previously published work. Manuscripts will be checked for plagiarism and multiple publication using IEEE CrossCheck Portal. A detailed description of the plagiarism levels can be found via this link.<a href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/Level_description.pdf">(https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/Level_description.pdf)</a></p>
+
+          <p class="main-p">Papers that has plagiarism level higher than 20%  will be reported to IEEE for further investigation, and not to be accepted.</p>
+
           <p class="conf-subtitle">Step 3: Verify that your camera-ready (final) paper is IEEE Xplore compliant</p>
 
           <p class="main-p">All papers published in the AIoTSys 2023 Proceedings and presented at the conference will be submitted for inclusion into IEEE Xplore®. Therefore, all camera-ready (final) paper files must adhere to the IEEE Xplore PDF specifications for compatibility.</p>
