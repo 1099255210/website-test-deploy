@@ -165,8 +165,6 @@ var welcomePage = {
     </div>
   </section>
 
-
-
   <section class="p-5">
     <div class="container">
       <p class="conf-subtitle">Sponsors</p>
