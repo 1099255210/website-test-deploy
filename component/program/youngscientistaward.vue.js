@@ -51,7 +51,7 @@ var youngScientistAward = {
 
           <p class="main-p">
           Applicants should complete the AIoTSys Young Scientist Application Form 
-          <strong><a href="./attachments/AIoTSys - Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
+          <strong><a href="./attachments/AIoTSys - Young Scientist Award - 20230905.docx">(AIoTSys Young Scientist Application Form) </a></strong>
           and send the application form and attachments to <a href="mailto:guob@nwpu.edu.cn">guob@nwpu.edu.cn</a> .
           </p>
 

@@ -52,7 +52,7 @@ var youngScientistAwardZh = {
 
           <p class="main-p">
           申请人请填写AIoTSys青年科学家申请表
-          <strong><a href="./attachments/AIoTSys - Young Scientist Award.docx">(AIoTSys Young Scientist Application Form) </a></strong>
+          <strong><a href="./attachments/AIoTSys - Young Scientist Award - 20230905.docx">(AIoTSys Young Scientist Application Form) </a></strong>
           ，并发送申请表与附件至 <a href="mailto:guob@nwpu.edu.cn">guob@nwpu.edu.cn</a> .
           </p>
 
