@@ -41,6 +41,10 @@ var cameraReadyInstructions = {
           
           <p class="main-p">Camera-ready (final) papers should mandatorily address the reviewers' comments.  The AIoTSys 2023 Program Chairs reserve the right to reject a camera-ready (final) paper if the reviewers' comments are not adequately addressed. The camera-ready paper should also contain all the necessary details regarding the authors and their affiliations.</p>
           
+          <p class="main-p">Submitted camera-ready (final) papers must be new and original. According to the IEEE Rules of Publication Services and Products Board, the critical plagiarism level (including self-plagiarism) for automatic verification by CrossCheck Portal is 20%, and it cannot be higher. Make sure that your paper is substantially different from (your) previously published work. Manuscripts will be checked for plagiarism and multiple publication using IEEE CrossCheck Portal. A detailed description of the plagiarism levels can be found via this link.<a href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/Level_description.pdf">(https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/Level_description.pdf)</a></p>
+
+          <p class="main-p">Papers that has plagiarism level higher than 20%  will be reported to IEEE for further investigation, and not to be accepted.</p>
+
           <p class="conf-subtitle">Step 3: Verify that your camera-ready (final) paper is IEEE Xplore compliant</p>
 
           <p class="main-p">All papers published in the AIoTSys 2023 Proceedings and presented at the conference will be submitted for inclusion into IEEE Xplore®. Therefore, all camera-ready (final) paper files must adhere to the IEEE Xplore PDF specifications for compatibility.</p>
@@ -54,15 +58,15 @@ var cameraReadyInstructions = {
           
           <p class="main-p">Go to the IEEE PDF eXpress (https://ieee-pdf-express.org/account/Login) web site.</p>
           
-          <p class="main-p">If you already have an IEEE eXpress account (either for AIoTSys 2023 or another conference) - log in using our Conference ID 58602, your email address, and password.   </p>
+          <p class="main-p">If you already have an IEEE eXpress account (either for AIoTSys 2023 or another conference) - log in using our Conference ID 58602X, your email address, and password.   </p>
           
-          <p class="main-p">If you are a first-time user, create an account on the IEEE PDF eXpress system. To do that, click on the “New Users – Click Here” link. Enter the Conference ID 58602, your email address, and choose a new password. Continue to enter information as prompted. You will then receive online and email confirmation of a successful account setup. You can now proceed to login to the IEEE eXpress system. </p>
+          <p class="main-p">If you are a first-time user, create an account on the IEEE PDF eXpress system. To do that, click on the “New Users – Click Here” link. Enter the Conference ID 58602X, your email address, and choose a new password. Continue to enter information as prompted. You will then receive online and email confirmation of a successful account setup. You can now proceed to login to the IEEE eXpress system. </p>
           
           <p class="main-p">For each AIoTSys 2023 camera-ready (final) paper that you want to process, click "Create New Title", enter identifying text for the paper (the paper title is recommended), and then click "Submit PDF for Checking" or "Submit Source File for Conversion".  You will now be prompted to upload your file. Click "Browse" to browse to your file and then click “Upload File”. </p>
           
           <p class="main-p">Once the checking/conversion process is completed successfully, the account holder will receive an email with the verified or converted PDF file attached to it.  This approved PDF file is labeled within its document properties as being "Certified by IEEE PDF eXpress", with an exact date and time stamp.  This approved file - and not your original upload - is what you must submit to EasyChair as your camera-ready (final) paper. </p>
           
-          <p class="main-p">VERY IMPORTANT: Name your camera-ready (final) file using "CR-presenting author last name-EasyChair paper ID”  (ex "R-Morris-68").</p>
+          <p class="main-p">VERY IMPORTANT: Name your camera-ready (final) file using "CR-presenting author last name-EasyChair paper ID”  (ex "CR-Morris-68").</p>
           
           <p class="main-p">For more detailed instructions and assistance with error messages, please refer to the “Using IEEE PDF eXpress” website here:  https://www.pdf-express.org/frhelpnologin.asp.</p>
 
