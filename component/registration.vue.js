@@ -56,6 +56,7 @@ var registration = {
           <li>The early bird registration deadline is <span class="bluestress">September 19th</span>.</li>
         </ol>
       </p>
+      <p class="main-p"><strong>Contact: </strong><a href="mailto:yangxudong@xpu.edu.cn">yangxudong@xpu.edu.cn</a></p>
       
       <div class="middle-set padding-20">
         <button onclick="redirect()" type="button" class="btn btn-primary btn-set redirect-reg">Start Registration</button>
