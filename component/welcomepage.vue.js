@@ -169,17 +169,14 @@ var welcomePage = {
     <div class="container">
       <p class="conf-subtitle">Sponsors</p>
       <div class="row" style="align-items: center;">
-        <div class="col-md-3">
+        <div class="col-md-4">
           <img src="./assets/ieeexian.png" class="img-fluid" alt="...">
         </div>
         <div class="col-md-2">
           <img src="./assets/nwpu-logo.jpg" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
           <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
-        </div>
-        <div class="col-md-3">
-          <img src="./assets/ieee hi-tc.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="row" style="align-items: center;">
@@ -194,11 +191,11 @@ var welcomePage = {
         <div class="col-md-4">
           <img src="./assets/caa.jpg" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <img src="./assets/ccf.png" class="img-fluid" alt="...">
         </div>
-        <div class="col-md-4">
-          <img src="./assets/sigbedchina.png" class="img-fluid" alt="...">
+        <div class="col-md-5">
+          <img src="./assets/ieee hi-tc.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="row" style="align-items: center;">

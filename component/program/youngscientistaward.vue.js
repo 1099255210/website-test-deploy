@@ -42,6 +42,7 @@ var youngScientistAward = {
             <p>Jiannong Cao, Hong Kong Polytechnic University </p>
             <p>Yiran Chen, Duke University</p>
             <p>Jie Liu, Harbin Institute of Technology (Shenzhen) </p>
+            <p>Jianhua Ma, Hosei University </p>
             <p>Yanyong Zhang, University of Science and Technology of China </p>
             <p><strong>Contact person of the Selection Committee: </strong></p>
             <a href="mailto:guob@nwpu.edu.cn">Guo Bin, guob@nwpu.edu.cn</a> 
