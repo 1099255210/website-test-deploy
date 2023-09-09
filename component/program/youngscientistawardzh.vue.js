@@ -15,7 +15,7 @@ var youngScientistAwardZh = {
           
     
           <p class="main-p">
-          AIoTSys青年科学家奖参选人须为35岁以下（女性38岁）华人AIoT技术人才，评选标准包括但不限于：
+          AIoTSys青年科学家奖参选人须为35岁以下*（女性38岁）华人AIoT技术人才，评选标准包括但不限于：
             <ul>
               <li>代表性论文（不超过5篇）</li>
               <li>主持或参加科研项目（课题）情况</li>
@@ -24,6 +24,8 @@ var youngScientistAwardZh = {
               <li>两位推荐人</li>
             </ul>
           </p>
+
+          <p class="main-p"><i>*在1988年1月1日后出生的男性；在1985年1月1日后出生的女性</i></p>
 
           <p class="conf-subtitle">评选流程</p>
 

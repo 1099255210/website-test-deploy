@@ -14,7 +14,7 @@ var youngScientistAward = {
           <p class="conf-subtitle">Selection Criteria</p>
     
           <p class="main-p">
-          Candidates for the AIoTSys Young Scientist Award must be Chinese AIoT technical talent aged 35 years (female 38 years), and the selection criteria include but are not limited to: 
+          Candidates for the AIoTSys Young Scientist Award must be Chinese AIoT technical talent aged 35 years* (female 38 years), and the selection criteria include but are not limited to: 
             <ul>
               <li>Main scientific publication (no more than 5 articles) </li>
               <li>Scientific research projects that you lead or
@@ -24,6 +24,8 @@ var youngScientistAward = {
               <li>Two recommended experts</li>
             </ul>
           </p>
+
+          <p class="main-p"><i>*Male born no earlier than Jan 01, 1988; Female born no earlier than Jan 01, 1985</i></p>
 
           <p class="conf-subtitle">Selection process</p>
 
