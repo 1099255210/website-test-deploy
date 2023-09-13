@@ -67,7 +67,7 @@ var youngScientistAwardZh = {
 
   <section>
     <div class="container">
-      <p class="conf-subtitle">Sponsors</p>
+      <p class="conf-subtitle">赞助</p>
       <div class="row" style="align-items: center;">
         <div class="col-md-4">
           <img src="./assets/ieee hi-tc.png" class="img-fluid" alt="...">
