@@ -63,5 +63,23 @@ var youngScientistAward = {
 
     </div>
   </section>
+
+  <section>
+    <div class="container">
+      <p class="conf-subtitle">Sponsors</p>
+      <div class="row" style="align-items: center;">
+        <div class="col-md-4">
+          <img src="./assets/ieee hi-tc.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-3">
+          <img src="./assets/brave_logo_01.png" class="img-fluid" alt="...">
+        </div>
+        <div class="col-md-5">
+          <img src="./assets/idea.png" class="img-fluid" alt="...">
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="p-5"></section>
   `
 };
