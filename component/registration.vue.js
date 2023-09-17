@@ -57,6 +57,10 @@ var registration = {
         </ol>
       </p>
       <p class="main-p"><strong>Contact: </strong><a href="mailto:yangxudong@xpu.edu.cn">yangxudong@xpu.edu.cn</a></p>
+
+      <p class="main-p"><strong>
+      Notice: Normal length for the final full-length paper is limited to eight (8) pages, and for the final short paper is limited to six (6) pages. Full-length (short) papers exceeding the normal length may be submitted upon payment of overlength page charges of 100 USD for each page in excess of eight (six). 
+      </strong></p>
       
       <div class="middle-set padding-20">
         <button onclick="redirect()" type="button" class="btn btn-primary btn-set redirect-reg">Start Registration</button>
