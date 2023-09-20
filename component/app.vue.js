@@ -116,6 +116,24 @@ var appframe = {
             <router-link class="nav-link active" to="Registration"> Registration </router-link>
           </li>
 
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Award
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="youngscientistaward"> AIoTSys Young Scientist Award </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="bestpaperaward"> Best Paper Award </router-link>
+              </li>
+            </ul>
+          </li>
+
           <li class="nav-item">
             <router-link class="nav-link active" to="plenaryspeakers"> Plenary Speakers </router-link>
           </li>
