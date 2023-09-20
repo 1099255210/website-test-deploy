@@ -57,6 +57,7 @@ var registration = {
         </ol>
       </p>
       <p class="main-p"><strong>Contact: </strong><a href="mailto:yangxudong@xpu.edu.cn">yangxudong@xpu.edu.cn</a></p>
+      <p class="main-p"><strong>Conference Invitation: </strong><a href="./attachments/Conference Invitation.pdf">Conference Invitation.pdf</a></p>
       
       <div class="middle-set padding-20">
         <button onclick="redirect()" type="button" class="btn btn-primary btn-set redirect-reg">Start Registration</button>

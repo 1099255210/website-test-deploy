@@ -166,6 +166,10 @@ var appframe = {
           </li>
 
           <li class="nav-item">
+            <router-link class="nav-link active" to="wechatpush"> WeChat push </router-link>
+          </li>
+
+          <li class="nav-item">
             <router-link class="nav-link active" to="contactus"> Contact us </router-link>
           </li>
 
