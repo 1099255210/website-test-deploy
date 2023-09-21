@@ -183,8 +183,28 @@ var appframe = {
             </ul>
           </li>
 
-          <li class="nav-item">
-            <router-link class="nav-link active" to="wechatpush"> WeChat push </router-link>
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Related News
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="conferenceagenda"> Conference Agenda </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="conferenceintroduction"> Conference Introduction </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="guestedspeaker"> Guested Speaker </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="youngscientistaward"> Young Scientist Award </router-link>
+              </li>
+            </ul>
           </li>
 
           <li class="nav-item">

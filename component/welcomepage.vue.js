@@ -6,7 +6,7 @@ var welcomePage = {
       <p class="conf-subtitle">News & Updates</p>
       <p class="main-p"></p>
       <ul>
-        <li><strong>20/09/2023:</strong> "WeChat push" page is <a href="index.html#/wechatpush">announced</a>, Conference Invitation is <a href="index.html#/registration">released.</a> </li>
+        <li><strong>20/09/2023:</strong> "Related News" page is <a href="index.html#/conferenceintroduction">announced</a>, Conference Invitation is <a href="index.html#/registration">released.</a> </li>
         <li><strong>31/08/2023:</strong> "Camera Ready Instructions" page is <a href="index.html#/camerareadyinstructions">announced.</a> </li>
         <li><strong>31/08/2023:</strong> "AIoTSys Young Scientist Award" page is <a href="index.html#/youngscientistaward">announced.</a> </li>
         <li><strong>26/08/2023:</strong> "Registration" page is <a href="index.html#/registration">announced.</a> </li>
