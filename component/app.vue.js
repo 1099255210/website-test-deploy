@@ -159,6 +159,9 @@ var appframe = {
               <li>
                 <router-link class="nav-link dropdown-item" to="youngscientistaward"> AIoTSys Young Scientist Award </router-link>
               </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="presentationInstructions"> Presentation Instructions </router-link>
+              </li>
             </ul>
           </li>
 
