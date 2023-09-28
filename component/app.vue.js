@@ -134,8 +134,19 @@ var appframe = {
             </ul>
           </li>
 
-          <li class="nav-item">
-            <router-link class="nav-link active" to="plenaryspeakers"> Plenary Speakers </router-link>
+          <li class="nav-item dropdown">
+            <button
+              class="btn btn-dark dropdown-toggle"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Plenary Speakers
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark">
+              <li>
+                <router-link class="nav-link dropdown-item" to="panel"> Panel </router-link>
+              </li>
+            </ul>
           </li>
 
           <li class="nav-item dropdown">
