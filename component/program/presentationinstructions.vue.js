@@ -14,10 +14,7 @@ var presentationInstructions = {
       <p class="main-p">
       Long paper presentations are allocated 8′ for the actual presentation and 2′ for Q&A, while short paper presentations are allocated 5′ for the actual presentation and 2′ for Q&A. We also require that you physically attend the meeting and oral presentation .
       </p>
-
-      <p class="main-p">
-      (Note that we had to adapt the duration of online papers to accommodate the increased number of oral presentation requests.)
-      </p>
+      
     </div>
   </section>
   `

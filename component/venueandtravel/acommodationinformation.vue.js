@@ -26,12 +26,56 @@ var acommodationInformation = {
           
           <p class="conf-subtitle">其它酒店</p>
         </div>
-        <img class="img-fluid" src="./assets/hotel.png">
+        <div class="row">
+          <table class="table table-striped text-center table-bordered">
+            <thead>
+              <tr>
+                <th scope="col">名称</th>
+                <th scope="col">地址</th>
+                <th scope="col">距唐隆距离</th>
+                <th scope="col">星级</th>
+                <th scope="col">大床价位</th>
+                <th scope="col">双床价位</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">美丽豪酒店（西安小寨大雁塔大唐不夜城店）</th>
+                <td>雁塔区长安南路86A号长丰国际广场A座</td>
+                <td>直线1.8公里</td>
+                <td>高档型</td>
+                <td>399单早428双早</td>
+                <td>399单早428双早</td>
+              </tr>
+              <tr>
+                <th scope="row">西安大雁塔曲江会展中心亚朵酒店</th>
+                <td>雁塔区长安南路101号金品国际B座1单元</td>
+                <td>直线1.7公里</td>
+                <td>高档型</td>
+                <td>443单早496双早</td>
+                <td>443单早496双早</td>
+              </tr>
+              <tr>
+                <th scope="row">汇成天玺酒店（西安曲江会展中心店）</th>
+                <td>雁塔区朱雀大街南段1号</td>
+                <td>直线2.3公里</td>
+                <td>豪华型</td>
+                <td>382双早</td>
+                <td>382双早</td>
+              </tr>
+              <tr>
+                <th scope="row">西安希瑞格酒店（曲江电视塔地铁站店）</th>
+                <td>雁塔区朱雀大街南段12号城市立方1楼</td>
+                <td>直线2.5公里</td>
+                <td>高档型</td>
+                <td>376单早405双早</td>
+                <td>405双早</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         
       </div>
-
-      
-
 
     </div>
   </section>
