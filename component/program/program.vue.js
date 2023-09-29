@@ -5,7 +5,7 @@ var program = {
       <p class="conf-title">Program</p>
 
       <div class="row">
-      <img src="./assets/aiotsys_banner.png" alt="" class="img-fluid">
+      <img src="./assets/aiotsys_banner.jpg" alt="" class="img-fluid">
           <table class="table table-bordered text-center align-middle table-hover">
           <tbody>  
             <tr>
