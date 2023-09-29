@@ -144,7 +144,10 @@ var appframe = {
             </button>
             <ul class="dropdown-menu dropdown-menu-dark">
               <li>
-                <router-link class="nav-link dropdown-item" to="panel"> Panel </router-link>
+                <router-link class="nav-link dropdown-item" to="panel"> Panel-1 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="panel"> Panel-2 </router-link>
               </li>
             </ul>
           </li>
