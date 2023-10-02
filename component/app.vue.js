@@ -147,7 +147,7 @@ var appframe = {
                 <router-link class="nav-link dropdown-item" to="panel"> Panel-1 </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="panel"> Panel-2 </router-link>
+                <router-link class="nav-link dropdown-item" to="panel2"> Panel-2 </router-link>
               </li>
             </ul>
           </li>
@@ -175,6 +175,27 @@ var appframe = {
               </li>
               <li>
                 <router-link class="nav-link dropdown-item" to="presentationInstructions"> Presentation Instructions </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session1"> Session 1 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session2"> Session 2 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session3"> Session 3 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session4"> Session 4 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session5"> Session 5 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="session6"> Session 6 </router-link>
+              </li>
+              <li>
+                <router-link class="nav-link dropdown-item" to="report"> Report </router-link>
               </li>
             </ul>
           </li>
