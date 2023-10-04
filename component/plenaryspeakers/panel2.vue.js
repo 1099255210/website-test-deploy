@@ -2,25 +2,18 @@ var panel2 = {
 	template: `
   <section class="p-5">
     <div class="container">
-      <p class="conf-title">Panel-2</p>
 
-      <div class="row">
-        <div class="col-2">
-          <img class="img-fluid crop" src="./assets/commitee/limingchen.jpg" alt="" />
-        </div>
+      <p>
+        <strong>
+          <a href="index.html#/panel">Panel-1</a> / Panel-2
+        </strong>
+      </p>
 
-        <div class="col-8">
-          <p class="conf-subtitle">
-            Intelligence computing for emergent human-machine ecosystem
-          </p>
-          <p class="conf-mtitle">Chair: Liming Chen</p>
-          <p class="main-p">Ulster University, UK</p>
-          <p class="main-p">Date: Oct 22, 2023</p>
-        </div>
-      </div>
+      <p class="conf-title" name="title">Panel-2: </p>
+      <p class="conf-title">Intelligence computing for emergent human-machine ecosystem</p>
 
       <p class="main-p mt-4">
-        <strong>Abstract:</strong>
+        <strong>Introduction to the topic:</strong>
         The prevalence and penetration of billions of sensors, devices and
         embedded systems, namely the Internet of Things (IoT), and the rapid
         development of IoT, AI and data science enabled smart
@@ -60,7 +53,19 @@ var panel2 = {
         sustainable and innovative AI applications.
       </p>
 
-      <p class="main-p">
+      <div class="row">
+        <div class="col-2">
+          <img class="img-fluid crop" src="./assets/commitee/limingchen.jpg" alt="" />
+        </div>
+
+        <div class="col-8">
+          <p class="conf-mtitle">Chair: Liming Chen</p>
+          <p class="main-p">Ulster University, UK</p>
+          <p class="main-p">Date: Oct 22, 2023</p>
+        </div>
+      </div>
+
+      <p class="main-p mt-2">
         <strong>Panelist:</strong>
         Laurance Tianruo Yang, Hui Xiong, Chau Yuen, Xing Xie, Bin Guo
       </p>

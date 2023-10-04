@@ -2,6 +2,17 @@ var session2 = {
 	template: `
   <section class="p-5">
     <div class="container">
+      <p>
+        <strong>
+          <a href="index.html#/session1">Session 1</a> / 
+          Session 2 /
+          <a href="index.html#/session3">Session 3</a> /
+          <a href="index.html#/session4">Session 4</a> /
+          <a href="index.html#/session5">Session 5</a> /
+          <a href="index.html#/session6">Session 6</a>
+        </strong>
+      </p>
+
       <p class="conf-title">Session 2 long paper oral presentation</p>
 
       <div class="row">

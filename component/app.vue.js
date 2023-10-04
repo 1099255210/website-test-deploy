@@ -140,24 +140,6 @@ var appframe = {
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              Plenary Speakers
-            </button>
-            <ul class="dropdown-menu dropdown-menu-dark">
-              <li>
-                <router-link class="nav-link dropdown-item" to="panel"> Panel-1 </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="panel2"> Panel-2 </router-link>
-              </li>
-            </ul>
-          </li>
-
-          <li class="nav-item dropdown">
-            <button
-              class="btn btn-dark dropdown-toggle"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
               Program
             </button>
             <ul class="dropdown-menu dropdown-menu-dark">
@@ -168,31 +150,13 @@ var appframe = {
                 <router-link class="nav-link dropdown-item" to="invitedtalk"> Invited Talk </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="bestpaperaward"> Best Paper Award </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="youngscientistaward"> AIoTSys Young Scientist Award </router-link>
-              </li>
-              <li>
                 <router-link class="nav-link dropdown-item" to="presentationInstructions"> Presentation Instructions </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="session1"> Session 1 </router-link>
+                <router-link class="nav-link dropdown-item" to="panel"> Panels </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="session2"> Session 2 </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="session3"> Session 3 </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="session4"> Session 4 </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="session5"> Session 5 </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="session6"> Session 6 </router-link>
+                <router-link class="nav-link dropdown-item" to="session1"> Sessions </router-link>
               </li>
               <li>
                 <router-link class="nav-link dropdown-item" to="report"> Report </router-link>

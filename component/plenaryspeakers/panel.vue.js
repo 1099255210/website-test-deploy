@@ -2,25 +2,17 @@ var panel = {
 	template: `
   <section class="p-5">
     <div class="container">
-      <p class="conf-title">Panel-1</p>
 
-      <div class="row">
-        <div class="col-2">
-          <img class="img-fluid" src="./assets/commitee/runhehuang.jpg" alt="" />
-        </div>
+      <p>
+        <strong>
+          Panel-1 / <a href="index.html#/panel2">Panel-2</a>
+        </strong>
+      </p>
 
-        <div class="col-8">
-          <p class="conf-subtitle">
-            Digital Twins and Intelligent IoT for a Better World
-          </p>
-          <p class="conf-mtitle">Chair: Runhe Huang</p>
-          <p class="main-p">Hosei University, Japan</p>
-          <p class="main-p">Date: Oct 21, 2023</p>
-        </div>
-      </div>
+      <p class="conf-title" name="title">Panel-1: Digital Twins and Intelligent IoT for a Better World</p>
 
       <p class="main-p mt-4">
-        <strong>Abstract:</strong>
+        <strong>Introduction to the topic:</strong>
         In an era defined by connectivity, the seamless integration and
         collaboration of people, machines, and organizations in both physical
         and digital realms have become a prominent and pressing topic. At the
@@ -56,7 +48,19 @@ var panel = {
         thinking. Welcome to this enlightening exchange of ideas and insights.
       </p>
 
-      <p class="main-p">
+      <div class="row">
+        <div class="col-2">
+          <img class="img-fluid" src="./assets/commitee/runhehuang.jpg" alt="" />
+        </div>
+
+        <div class="col-8">
+          <p class="conf-mtitle">Chair: Runhe Huang</p>
+          <p class="main-p">Hosei University, Japan</p>
+          <p class="main-p">Date: Oct 21, 2023</p>
+        </div>
+      </div>
+
+      <p class="main-p mt-2">
         <strong>Panelist:</strong>
         Daqing ZHANG, Zhiwen WE, Christopher NUGENT, Wejia JIA, Yan ZHANG , Yun
         Yang, Yoshihide SEKIMOTO, Bowen DU

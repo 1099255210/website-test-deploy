@@ -226,8 +226,10 @@ var program = {
               <td></td>
               <td>10:40-12:00</td>
               <td>
-                Panel Discussion: Digital Twins and Intelligent IoT for our
-                better future world
+                <a href="index.html#/panel#title">
+                  Panel Discussion: Digital Twins and Intelligent IoT for our
+                  better future world
+                </a>
               </td>
               <td colspan="2">
                 Panelist: Chris(UK)、杨鲲(University of Essex,
@@ -424,8 +426,10 @@ var program = {
             <tr>
               <td>10:40-12:00</td>
               <td>
-                Panel Discussion: Intelligence computing for emergent
-                human-machine ecosystem
+                <a href="index.html#/panel2#title">
+                  Panel Discussion: Intelligence computing for emergent
+                  human-machine ecosystem
+                </a>
               </td>
               <td colspan="2">Panelist: 杨天若、Chau Yuen、熊辉、谢幸、郭斌</td>
               <td>Prof. Liming Chen (Professor, Ulster University (UU))</td>
