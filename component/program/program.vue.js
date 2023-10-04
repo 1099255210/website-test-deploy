@@ -274,8 +274,8 @@ var program = {
               <td>顾超杰</td>
             </tr>
             <tr>
-              <td rowspan="5">会议室2</td>
-              <td rowspan="5">13:30-15:30</td>
+              <td rowspan="6">会议室2</td>
+              <td rowspan="6">13:30-15:30</td>
               <td colspan="4">
                 分论坛主题：Artificial Intelligence for the Industrial Internet
                 of Things (AIIoT)
@@ -288,7 +288,7 @@ var program = {
               <td>高效安全的工业物联网数据智能</td>
               <td>张兰</td>
               <td>中国科学技术大学教授</td>
-              <td rowspan="2">崔禾磊</td>
+              <td rowspan="3">崔禾磊</td>
             </tr>
             <tr>
               <td>
@@ -297,6 +297,13 @@ var program = {
               </td>
               <td>杨松</td>
               <td>北京理工大学长聘副教授</td>
+            </tr>
+            <tr>
+              <td>
+                Wireless Transmission and Collaboration for Industrial Internet of Things
+              </td>
+              <td>单冯</td>
+              <td>东南大学副教授、博导</td>
             </tr>
             <tr>
               <td colspan="3" class="table-info">
@@ -431,7 +438,7 @@ var program = {
                   human-machine ecosystem
                 </a>
               </td>
-              <td colspan="2">Panelist: 杨天若、Chau Yuen、熊辉、谢幸、郭斌</td>
+              <td colspan="2">Panelist: 杨天若、Chau Yuen、熊辉、谢幸、郭斌、宁焕生</td>
               <td>Prof. Liming Chen (Professor, Ulster University (UU))</td>
             </tr>
             <tr class="table-success">
