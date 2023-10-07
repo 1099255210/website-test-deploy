@@ -9,7 +9,8 @@ var session6 = {
           <a href="index.html#/session3">Session 3</a> /
           <a href="index.html#/session4">Session 4</a> /
           <a href="index.html#/session5">Session 5</a> /
-          Session 6
+          Session 6 /
+          <a href="index.html#/session7">Session 7</a>
         </strong>
       </p>
 

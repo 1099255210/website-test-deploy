@@ -12,7 +12,7 @@ var presentationInstructions = {
       Long paper in-person presentations are allocated 15′ for the actual presentation and 5′ for Q&A.
       </p>
       <p class="main-p">
-      Long paper presentations are allocated 8′ for the actual presentation and 2′ for Q&A, while short paper presentations are allocated 5′ for the actual presentation and 2′ for Q&A. We also require that you physically attend the meeting and oral presentation.
+      Short paper presentations are allocated 5′ for the actual presentation and 2′ for Q&A. We also require that you physically attend the meeting and oral presentation.
       </p>
       <p class="main-p">
       Short paper also requires a conference template to design a roll-up banner (2.0m*0.8m) and bring it to the venue for display.

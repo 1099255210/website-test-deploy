@@ -2,14 +2,13 @@ var panel = {
 	template: `
   <section class="p-5">
     <div class="container">
-
       <p>
-        <strong>
-          Panel-1 / <a href="index.html#/panel2">Panel-2</a>
-        </strong>
+        <strong> Panel-1 / <a href="index.html#/panel2">Panel-2</a> </strong>
       </p>
 
-      <p class="conf-title" name="title">Panel-1: Digital Twins and Intelligent IoT for a Better World</p>
+      <p class="conf-title" name="title">
+        Panel-1: Digital Twins and Intelligent IoT for a Better World
+      </p>
 
       <p class="main-p mt-4">
         <strong>Introduction to the topic:</strong>
@@ -50,7 +49,11 @@ var panel = {
 
       <div class="row">
         <div class="col-2">
-          <img class="img-fluid" src="./assets/commitee/runhehuang.jpg" alt="" />
+          <img
+            class="img-fluid"
+            src="./assets/commitee/runhehuang.jpg"
+            alt=""
+          />
         </div>
 
         <div class="col-8">
@@ -69,6 +72,23 @@ var panel = {
       <p class="conf-subtitle">Panelist</p>
 
       <p class="conf-mtitle">Daqing ZHANG</p>
+
+      <p class="main-p">
+        Daqing Zhang is a Chair Professor with Peking University, China and IP
+        Paris, France. His research interests include ubiquitous computing,
+        mobile computing, big data analytics and AIoT. He has published more
+        than 400 technical papers in leading conferences and journals, with a
+        citation of over 27000 and H-index of 84, where his work on OWL-based
+        context model and Fresnel Zone-based wireless sensing theory are widely
+        accepted by pervasive computing, mobile computing and service computing
+        communities. He was the winner of the Ten Years CoMoRea Impact Paper
+        Award at IEEE PerCom 2013 and Ten Years Most Influential Paper Award at
+        IEEE UIC 2019, the Best Paper Award Runner-up at ACM MobiCom 2022, the
+        Distinguished Paper Award of IMWUT (UbiComp 2021), etc.. He served as
+        the general or program chair for more than a dozen of international
+        conferences, and in the advisory board of Proceeding of ACM IMWUT.
+        Daqing Zhang is a Fellow of IEEE and Member of Academy of Europe.
+      </p>
 
       <p class="conf-mtitle">Zhiwen YU</p>
 

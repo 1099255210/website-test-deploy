@@ -2,15 +2,14 @@ var panel2 = {
 	template: `
   <section class="p-5">
     <div class="container">
-
       <p>
-        <strong>
-          <a href="index.html#/panel">Panel-1</a> / Panel-2
-        </strong>
+        <strong> <a href="index.html#/panel">Panel-1</a> / Panel-2 </strong>
       </p>
 
-      <p class="conf-title" name="title">Panel-2: </p>
-      <p class="conf-title">Intelligence computing for emergent human-machine ecosystem</p>
+      <p class="conf-title" name="title">Panel-2:</p>
+      <p class="conf-title">
+        Intelligence computing for emergent human-machine ecosystem
+      </p>
 
       <p class="main-p mt-4">
         <strong>Introduction to the topic:</strong>
@@ -55,7 +54,11 @@ var panel2 = {
 
       <div class="row">
         <div class="col-2">
-          <img class="img-fluid crop" src="./assets/commitee/limingchen.jpg" alt="" />
+          <img
+            class="img-fluid crop"
+            src="./assets/commitee/limingchen.jpg"
+            alt=""
+          />
         </div>
 
         <div class="col-8">
@@ -194,6 +197,25 @@ var panel2 = {
         the founding director of the AI&Art Research Center of NPU，and the
         Secretary General of the Belt and Road AIoT International Cooperative
         Alliance (BRAVE).
+      </p>
+
+      <p class="conf-mtitle">Huansheng Ning</p>
+
+      <p class="main-p">
+        Professor at University of Science and Technology Beijing, Member of the
+        8th Science and Technology Committee of the Ministry of Education.
+        Formerly established and served as the director of the Beijing
+        International Cooperation Base for Cyberspace, the China UK Intelligent
+        Health Joint Laboratory, and the National Science Popularization Base
+        for Cyberspace.
+      </p>
+      <p class="main-p">
+        Dr. Ning got his PhD from Beihang University in 2021 and worked at
+        Aerospace Information Co., Ltd., Beihang University, University of
+        Science and Technology Beijing (during which he served as the Deputy
+        Director of the Development and Reform Bureau of Qixia District,
+        Nanjing), and currently serves as the Vice President of Jinzhong
+        University (on a temporary position).
       </p>
     </div>
   </section>

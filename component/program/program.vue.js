@@ -234,7 +234,7 @@ var program = {
               <td colspan="2">
                 Panelist: Chris(UK)、杨鲲(University of Essex,
                 UK)、Sekimoto(东京大学)、 张大庆(北大)、 杜博文(北航)、
-                贾维嘉、张彦（待确认）、於志文
+                贾维嘉、张彦、於志文
               </td>
               <td>Prof. Runhe Huang (Professor, Hosei University)</td>
             </tr>
@@ -532,7 +532,9 @@ var program = {
               <td>会议室2</td>
               <td>13:30-18:00</td>
               <td colspan="4">
-                <a href="index.html#/report">大会报告</a>
+                <a href="index.html#/session7"
+                  >Session 7 long paper oral presentation</a
+                >
               </td>
             </tr>
           </tbody>
