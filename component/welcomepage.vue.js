@@ -183,11 +183,8 @@ var welcomePage = {
         </div>
       </div>
       <div class="row" style="align-items: center;">
-        <div class="col-md-6">
-          <img src="./assets/huaweiyun.jpg" class="img-fluid" alt="...">
-        </div>
-        <div class="col-md-6">
-          <img src="./assets/inspur.png" class="img-fluid" alt="...">
+        <div class="col-md-12 text-center">
+          <img src="./assets/huaweiyun.jpg" class="img-fluid" alt="..." style="width: 50%">
         </div>
       </div>
       <div class="row" style="align-items: center;">
