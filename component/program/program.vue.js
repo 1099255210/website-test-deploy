@@ -232,8 +232,8 @@ var program = {
                 </a>
               </td>
               <td colspan="2">
-                Panelist: Chris(UK)、杨鲲(University of Essex,
-                UK)、Sekimoto(东京大学)、 张大庆(北大)、 杜博文(北航)、
+                Panelist: Christopher Nugent(UK)、杨鲲(University of Essex,
+                UK)、Sekimoto(东京大学)、 张大庆(北大)、
                 贾维嘉、张彦、於志文
               </td>
               <td>Prof. Runhe Huang (Professor, Hosei University)</td>

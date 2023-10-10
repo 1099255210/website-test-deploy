@@ -65,8 +65,8 @@ var panel = {
 
       <p class="main-p mt-2">
         <strong>Panelist:</strong>
-        Daqing ZHANG, Zhiwen WE, Christopher NUGENT, Wejia JIA, Yan ZHANG , Yun
-        Yang, Yoshihide SEKIMOTO, Bowen DU
+        Daqing ZHANG, Zhiwen WE, Christopher Nugent, Wejia JIA, Yan ZHANG , Yun
+        Yang, Yoshihide SEKIMOTO
       </p>
 
       <p class="conf-subtitle">Panelist</p>
