@@ -278,27 +278,6 @@ var panel = {
         generations.
       </p>
 
-      <p class="conf-mtitle">Bowen DU</p>
-
-      <p class="main-p">
-        He is a Professor with the State Key Laboratory of Software Development
-        Environment. He was a visiting scholar at Rutgers University in New
-        Jersey, USA. His research focuses on intelligent methods for
-        transportation and transportation infrastructure. By combining advanced
-        information technology with transportation and civil engineering, he has
-        proposed methods for accurate identification of traffic operation status
-        driven by spatio-temporal big data, identification, and analysis of
-        abnormal states of transportation infrastructure embedded with domain
-        knowledge, and established precise identification and active control
-        technology for highway network operation status and non-destructive
-        quantitative detection technology for infrastructure diseases. He has
-        published more than 130 papers, including 32 Q1 journal papers, 18
-        EI-indexed papers in top international conferences in the field of CCF A
-        information, and 2 ESI highly cited papers. In the past five years, he
-        has won the second prize for national scientific and technological
-        progress and the special prize for scientific and technological progress
-        of the China Highway & Transportation Society.
-      </p>
     </div>
   </section>
   `

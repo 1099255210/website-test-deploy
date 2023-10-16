@@ -147,7 +147,7 @@ var appframe = {
                 <router-link class="nav-link dropdown-item" to="program"> Program </router-link>
               </li>
               <li>
-                <router-link class="nav-link dropdown-item" to="invitedtalk"> Invited Talk </router-link>
+                <router-link class="nav-link dropdown-item" to="invitedtalk"> Keynote </router-link>
               </li>
               <li>
                 <router-link class="nav-link dropdown-item" to="presentationInstructions"> Presentation Instructions </router-link>
@@ -157,9 +157,6 @@ var appframe = {
               </li>
               <li>
                 <router-link class="nav-link dropdown-item" to="session1"> Sessions </router-link>
-              </li>
-              <li>
-                <router-link class="nav-link dropdown-item" to="report"> Report </router-link>
               </li>
             </ul>
           </li>
